@@ -54,13 +54,14 @@ Hempstead, NY
 ## Web Development
 ### HTML/CSS
 Skill Level: Beginner
+
+## Other skills
 ###	Drupal
 
 Skill Level: Intermediate
 
 Worked to deploy a new website for the Residential Computing team in the IS&T Helpdesk with ticket submission web forms, dynamic content from System Status page, and CSS/Javascript slideshow.
 
-## Other skills
 ###	Asterisk
 Skill Level: Beginner
 
