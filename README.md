@@ -68,7 +68,7 @@ Set up a working Asterisk server for personal use using the FreePBX Web GUI and 
 
 # EDUCATION
 
-### Hofstra University | Sep 11 - present
+### Hofstra University | Sep 11 - Dec 12
 Hempstead, NY
 Music Education
 
