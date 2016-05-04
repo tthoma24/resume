@@ -13,7 +13,7 @@ tthomas292@me.com
 IT professional with more than 3 years of hands on and remote support experience in a demanding, fast-paced environment. Proven ability to provide excellent customer service, work collaboratively, and to learn and adapt to new technology quickly. Adept at troubleshooting issues on Mac, Windows, and Linux platforms, including recent experience with Windows 8.1 and OS X 10.10. 
 
 # EXPERIENCE
-## IT Help Analyst II, MIT Information Systems and Technology | May 13 - Present 
+## IT Help Analyst II, MIT Information Systems and Technology | May 13 - May 15 
 
 Cambridge, MA
 
