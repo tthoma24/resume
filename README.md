@@ -100,9 +100,7 @@ Ubuntu, Cron, SysVinit, SSH/SSHLDAP (https://github.com/jirutka/ssh-ldap-pubkey)
 ## Other
 
 ## Web Development
-### HTML/CSS
-### Apache
-### Wordpress
+HTML/CSS, Apache, Wordpress
 *   Maintenance and updates of GNS Healthcare Wordpress installation
 *   Worked with IT and Marketing team to coordinate and execute a move of web server into our AWS environment
 
