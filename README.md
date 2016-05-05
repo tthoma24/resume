@@ -1,9 +1,9 @@
 # Teddy Thomas
 
-898 Massachusetts Avenue Apt 4
-Cambridge, MA  02139
-(978) 494-0721
-tthomas292@me.com
+   898 Massachusetts Avenue Apt 4
+   Cambridge, MA  02139
+   (978) 494-0721
+   tthomas292@me.com
 
 ======
 # PROFESSIONAL SUMMARY
