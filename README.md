@@ -74,6 +74,10 @@ Hempstead, NY
 
 ## Cluster & Cloud Computing
 ### AWS EC2, S3, IAM, and VPC
+*   Maintenance of IAM users and policies
+*   Spinning up and down Ubuntu machines inside our VPC from a base AMI
+*   Creation of roles and IAM users for Vault to use the AWS creds and STS backends
+
 ### StarCluster (https://star.mit.edu/cluster)
 *   First level support for user questions about submitting SGE jobs
 *   Assist Cloud Architect with upgrading and troubleshooting Load Balancer and node issues. Escalated as appropriate.
