@@ -39,15 +39,15 @@ Initially hired as a temporary contractor, full time position beginning Jan 14
 
 *   Technical understanding for a wide range of issues; ability to explain issues and their resolution to non-technical users. Ability to remain calm and respectful with frustrated or upset users.
 
-*	Provide tier one email, phone, and walk-in technical support for MIT students, faculty, staff, and affiliates
+*	Provided tier one email, phone, and walk-in technical support for MIT students, faculty, staff, and affiliates
 
-*	Provide tier two support for Education Systems, including the Stellar CMS, Google Apps for Education, and Confluence Wikis. Escalated as appropriate.
+*	Provided tier two support for Education Systems, including the Stellar CMS, Google Apps for Education, and Confluence Wikis. Escalated as appropriate.
 
-*	Coordinate and provide tier one and two support for cable TV, phone, and internet in MIT dormitories and independent living groups (ILGs). Escalate tier 3 network issues.
+*	Coordinated and provided tier one and two support for cable TV, phone, and internet in MIT dormitories and independent living groups (ILGs). Escalated tier 3 network issues.
 
-*	Author and maintain documentation for a wide variety of technology services within the MIT Confluence-based knowledge base.
+*	Authored and maintained documentation for a wide variety of technology services within the MIT Confluence-based knowledge base.
 
-*	Assist in the onboarding and training of new student workers in the Call Center, Walkins, and Residential Computing spaces.
+*	Assisted in the onboarding and training of new student workers in the Call Center, Walkins, and Residential Computing spaces.
 
 ## Technical Support Specialist, Student Computing Services at Hofstra University | Sep 11 - Dec 12
 
