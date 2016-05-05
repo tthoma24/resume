@@ -73,11 +73,11 @@ Hempstead, NY
 ### AWS EC2, S3, IAM, and VPC
 *   Maintenance of IAM users and policies
 *   Spinning up and down Ubuntu machines inside our VPC from a base AMI
-*   Worked with DevOps intern and Cloud Architect in the setup for Vault to use the AWS IAM creds and STS backends
+*   Setup for Vault to use the AWS IAM creds and STS backends
 
 ### StarCluster (https://star.mit.edu/cluster)
-*   First level support for user questions about submitting SGE jobs
-*   Assist Cloud Architect with upgrading and troubleshooting Load Balancer and node issues. Escalated as appropriate.
+*	Work with submitting and troubleshooting SGE jobs
+*	Experience upgrading and troubleshooting Load Balancer and node issues. 
 
 ## Networking technologies
 *   DHCP, DNS
@@ -91,7 +91,11 @@ Hempstead, NY
 *   Endpoint Protector DLP (http://www.endpointprotector.com)
 
 ## Linux/UNIX
-Ubuntu, Cron, SysVinit, SSH/SSHLDAP (https://github.com/jirutka/ssh-ldap-pubkey), X.509 cert generation
+Ubuntu
+*   Cron
+*   SysVinit
+*   SSH/SSHLDAP (https://github.com/jirutka/ssh-ldap-pubkey)
+*   X.509 cert generation
 
 ## Zulip
 *   Spun up a Zulip server in AWS for test use by GNS IT team
@@ -100,11 +104,10 @@ Ubuntu, Cron, SysVinit, SSH/SSHLDAP (https://github.com/jirutka/ssh-ldap-pubkey)
 *   Avid Zulip user at MIT
 
 ## Other
-
-## Web Development
 ### HTML/CSS, Apache, Wordpress
-*   Maintenance and updates of GNS Healthcare Wordpress installation
-*   Worked with IT and Marketing team to coordinate and execute a move of web server into our AWS environment
+*	Maintenance and updates of Wordpress installations
+*   Move of Wordpress install into AWS from a third party VM
+*	Configuration of Apache vhosts, htaccess, and SSL
 
 ###	Drupal
 *   Worked with other IS&T students and staff to deploy a new website for the Residential Computing team in the IS&T Helpdesk
