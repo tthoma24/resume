@@ -64,7 +64,7 @@ Hempstead, NY
 
 *	Supported students who contacted the Helpdesk in person and over the phone.
 
-* Supported student Macintosh and Windows computers, as well as student computer lab and classroom workstations. Occasional smartphone support.
+*   Supported student Macintosh and Windows computers, as well as student computer lab and classroom workstations. Occasional smartphone support.
 
 *	First line diagnosis of problems with wireless access points, printing services, Blackboard CMS,  AD and web service logins. Escalated as appropriate.
 
@@ -72,23 +72,57 @@ Hempstead, NY
 
 *	Primary issues resolved: password resets, disabled login accounts, print release issues, MS Office suite questions and errors, problems with web services, installing drivers and software, device network registrations, and connectivity issues.
 
-# RELEVANT SKILLSETS
+# RELEVANT TECHNOLGIES
+
+## Cluster & Cloud Computing
+### AWS EC2, S3, IAM, and VPC
+### Sun Grid Engine
+### StarCluster (https://star.mit.edu/cluster)
+*   First level support for user questions about submiting SGE jobs
+*   Assist Cloud Architect with upgrading and troubleshooting Load Balancer and node issues. Escalated as appropriate.
+
+## Networking technologies
+### DHCP
+### DNS
+### LDAP
+### NFS
+### SaMBa
+
+## Security tools
+### Vault (https://www.vaultproject.io)
+### Endpoint Protector DLP (http://http://www.endpointprotector.com)
+### IPTables
+
+## Linux/UNIX
+### Ubuntu
+### Cron
+### SysVinit
+### SSH/SSHLDAP (https://github.com/jirutka/ssh-ldap-pubkey)
+### X.509 cert generation
+
+## Zulip
+*   Spun up a Zulip server in AWS for test use by GNS IT team
+*   Installed custom SSL cert from our internal CA
+*   Setup Zendesk integration for IT ticket queue
+*   Avid Zulip user at MIT
+
+## Other
 
 ## Web Development
 ### HTML/CSS
-Skill Level: Beginner
+### Apache
+### Wordpress
+*   Maintenance and updates of GNS Healthcare Wordpress installation
+*   Worked with IT and Marketing team to coordinate and execute a move of web server into our AWS environment
 
-## Other skills
 ###	Drupal
-
-Skill Level: Intermediate
-
-Worked to deploy a new website for the Residential Computing team in the IS&T Helpdesk with ticket submission web forms, dynamic content from System Status page, and CSS/Javascript slideshow.
+*   Worked with other IS&T students and staff to deploy a new website for the Residential Computing team in the IS&T Helpdesk
+*   Features include ticket submission web forms, dynamic content from System Status page, and CSS/Javascript feature slideshow.
+*   Configured Request Tracker queues to parse mail headers and body to set custom ticket system fields. 
+*   Received an IS&T Spotlight Award for work on the site
 
 ###	Asterisk
-Skill Level: Beginner
-
-Set up a working Asterisk server for personal use using the FreePBX Web GUI and MIT’s Personal SIP service as a SIP trunk.
+* Set up a working Asterisk server for personal use using the FreePBX Web GUI and MIT’s Personal SIP service as a SIP trunk.
 
 # EDUCATION
 
