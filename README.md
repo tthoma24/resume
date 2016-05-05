@@ -34,8 +34,6 @@ Cambridge, MA
 
 *   Recent experience with Agile and Scrum methodologies.
 
-*	Supported technologies include Exchange email, OpenDJ, Google Apps for Education, R, AWS EC2 and S3, and Confluence/JIRA.
-
 ## IT Help Analyst II, MIT Information Systems and Technology | May 13 - May 15 
 
 Cambridge, MA
@@ -76,29 +74,18 @@ Hempstead, NY
 
 ## Cluster & Cloud Computing
 ### AWS EC2, S3, IAM, and VPC
-### Sun Grid Engine
 ### StarCluster (https://star.mit.edu/cluster)
-*   First level support for user questions about submiting SGE jobs
+*   First level support for user questions about submitting SGE jobs
 *   Assist Cloud Architect with upgrading and troubleshooting Load Balancer and node issues. Escalated as appropriate.
 
 ## Networking technologies
-### DHCP
-### DNS
-### LDAP
-### NFS
-### SaMBa
+DHCP, DNS, LDAP, NFS, SaMBa, OpenVPN
 
 ## Security tools
-### Vault (https://www.vaultproject.io)
-### Endpoint Protector DLP (http://http://www.endpointprotector.com)
-### IPTables
+IPTables, Vault (https://www.vaultproject.io), Endpoint Protector DLP (http://http://www.endpointprotector.com)
 
 ## Linux/UNIX
-### Ubuntu
-### Cron
-### SysVinit
-### SSH/SSHLDAP (https://github.com/jirutka/ssh-ldap-pubkey)
-### X.509 cert generation
+Ubuntu, Cron, SysVinit, SSH/SSHLDAP (https://github.com/jirutka/ssh-ldap-pubkey), X.509 cert generation
 
 ## Zulip
 *   Spun up a Zulip server in AWS for test use by GNS IT team
