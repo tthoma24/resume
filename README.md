@@ -10,16 +10,39 @@ tthomas292@me.com
 
 ======
 # PROFESSIONAL SUMMARY
-IT professional with more than 3 years of hands on and remote support experience in a demanding, fast-paced environment. Proven ability to provide excellent customer service, work collaboratively, and to learn and adapt to new technology quickly. Adept at troubleshooting issues on Mac, Windows, and Linux platforms, including recent experience with Windows 8.1 and OS X 10.10. 
+*   IT professional with more than 3 years of hands on and remote support experience in a demanding, fast-paced environment. 
+*   Proven ability to provide excellent customer service, work collaboratively, and to learn and adapt to new technology quickly. 
+*   Adept at troubleshooting issues on Mac, Windows, and Linux platforms
+*   Strong grasp of computer and server security
 
 # EXPERIENCE
+## IT Support Specialist, GNS Healthcare | Jun 15 - Present 
+
+Cambridge, MA
+
+*   Proven ability to explain issues and their resolution to users at all company levels, including C and D-level Executives. Solid troubleshooting and problem-solving skills.
+
+*	Troubleshoot client and server side software and hardware issues. Provide resolutions to end users by email, phone, and in-person.
+
+*   Reinstall and/or deploy new desktop and server hardware, including AWS EC2 instances.
+
+*   Responsible for creation, deletion, and modification of LDAP and SaaS user accounts and associated permissions.
+
+*   Assist Cloud Architect by triaging issues with cloud compute applications and services. Escalated as appropriate.
+
+*   Work with other IT team members to execute projects involving moving services to new servers, email migration, physical office move, server security and HITRUST certification effort.
+
+*   Recent experience with Agile and Scrum methodologies.
+
+*	Supported technologies include Exchange email, OpenDJ, Google Apps for Education, R, AWS EC2 and S3, and Confluence/JIRA.
+
 ## IT Help Analyst II, MIT Information Systems and Technology | May 13 - May 15 
 
 Cambridge, MA
 
 Initially hired as a temporary contractor, full time position beginning Jan 14
 
-* Technical understanding for a wide range of issues; ability to explain issues and their resolution to non-technical users. Ability to remain calm and respectful with frustrated or upset users.
+*   Technical understanding for a wide range of issues; ability to explain issues and their resolution to non-technical users. Ability to remain calm and respectful with frustrated or upset users.
 
 *	Provide tier one email, phone, and walk-in technical support for MIT students, faculty, staff, and affiliates
 
