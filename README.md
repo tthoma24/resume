@@ -28,9 +28,9 @@ Cambridge, MA
 
 *   Responsible for creation, deletion, and modification of LDAP and SaaS user accounts and associated permissions.
 
-*   Assist Cloud Architect by triaging issues with cloud compute applications and services. Escalated as appropriate.
+*   Assist Cloud Architect by triaging issues with cloud compute applications and services. Escalate as appropriate.
 
-*   Work with other IT team members to execute projects involving moving services to new servers, email migration, physical office move, server security and HITRUST certification effort.
+*   Work with other IT team members to execute projects including moving services to new servers, email migration, physical office move, server security and HITRUST certification effort.
 
 *   Recent experience with Agile and Scrum methodologies.
 
@@ -76,7 +76,7 @@ Hempstead, NY
 ### AWS EC2, S3, IAM, and VPC
 *   Maintenance of IAM users and policies
 *   Spinning up and down Ubuntu machines inside our VPC from a base AMI
-*   Creation of roles and IAM users for Vault to use the AWS creds and STS backends
+*   Worked with DevOps intern and Cloud Architect in the setup for Vault to use the AWS IAM creds and STS backends
 
 ### StarCluster (https://star.mit.edu/cluster)
 *   First level support for user questions about submitting SGE jobs
