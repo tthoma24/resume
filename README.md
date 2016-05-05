@@ -12,7 +12,7 @@ tthomas292@me.com
 # PROFESSIONAL SUMMARY
 *   IT professional with more than 3 years of hands on and remote support experience in a demanding, fast-paced environment. 
 *   Proven ability to provide excellent customer service, work collaboratively, and to learn and adapt to new technology quickly. 
-*   Adept at troubleshooting issues on Mac, Windows, and Linux platforms
+*   Solid troubleshooting and problem-solving skills on a variety of platforms and software.
 *   Strong grasp of computer and server security
 
 # EXPERIENCE
@@ -20,7 +20,7 @@ tthomas292@me.com
 
 Cambridge, MA
 
-*   Proven ability to explain issues and their resolution to users at all company levels, including C and D-level Executives. Solid troubleshooting and problem-solving skills.
+*   Proven ability to explain issues and their resolution to users at all company levels, including C and D-level Executives.
 
 *	Troubleshoot client and server side software and hardware issues. Provide resolutions to end users by email, phone, and in-person.
 
