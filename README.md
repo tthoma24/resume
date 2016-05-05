@@ -67,7 +67,7 @@ Hempstead, NY
 
 *	Primary issues resolved: password resets, disabled login accounts, print release issues, MS Office suite questions and errors, problems with web services, installing drivers and software, device network registrations, and connectivity issues.
 
-# RELEVANT TECHNOLGIES
+# RELEVANT SKILLS, TECHNOLGY, AND PROJECTS
 
 ## Cluster & Cloud Computing
 ### AWS EC2, S3, IAM, and VPC
@@ -80,10 +80,15 @@ Hempstead, NY
 *   Assist Cloud Architect with upgrading and troubleshooting Load Balancer and node issues. Escalated as appropriate.
 
 ## Networking technologies
-DHCP, DNS, LDAP, NFS, SaMBa, OpenVPN
+*   DHCP, DNS
+*   LDAP/OpenDJ 
+*   NFS, SaMBa
+*   OpenVPN
 
 ## Security tools
-IPTables, Vault (https://www.vaultproject.io), Endpoint Protector DLP (http://http://www.endpointprotector.com)
+*   IPTables
+*   Vault (https://www.vaultproject.io)
+*   Endpoint Protector DLP (http://www.endpointprotector.com)
 
 ## Linux/UNIX
 Ubuntu, Cron, SysVinit, SSH/SSHLDAP (https://github.com/jirutka/ssh-ldap-pubkey), X.509 cert generation
