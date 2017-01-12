@@ -76,7 +76,6 @@ Hempstead, NY
 * 	Creation of base AMIs for generic machines and StarClusters
 *	Setup for Vault (https://vaultproject.io) to use the AWS “creds” and “STS” backends
 
-
 ### StarCluster (https://star.mit.edu/cluster)
 *   Work with submitting and troubleshooting Sun Grid Engine (SGE) jobs
 *   Experience upgrading and troubleshooting Load Balancer and node issues.
@@ -86,11 +85,7 @@ Hempstead, NY
 *  DHCP, DNS, LDAP/OpenDJ, Kerberos, OpenVPN, SSH, Sendmail, BIND, AFS, NFS, Kerberos, Apache
 *  macOS, Ubuntu, DebAthena, VMWare ESXi, cron, SysVinit, X.509 certs, emacs, bash
 
-## Other
-### HTML/CSS, Apache, Wordpress
-*   Maintenance and updates of Wordpress installations
-*   Move of Wordpress install into AWS from a third party VM
-*   Configuration of Apache vhosts, htaccess, and SSL
+## Other Projects
 
 ### Drupal
 *   Worked with other IS&T students and staff to deploy a new website for the Residential Computing team in the IS&T Helpdesk
@@ -98,12 +93,12 @@ Hempstead, NY
 *   Configured Request Tracker queues to parse mail headers and body to set custom ticket system fields. 
 *   Received an IS&T Spotlight Award for work on the site
 
-### Asterisk
-* Set up a working Asterisk server for personal use using the FreePBX Web GUI and MIT’s Personal SIP service as a SIP trunk.
+### MacAthena (http://github.com/macathena/macathena)
+*   Through MIT SIPB (http://sipb.mit.edu)
+*   Working to port Athena packages to macOS, including the python automounter, moira utilities, and a customized greeter
 
 # EDUCATION
 
 ### Hofstra University | Sep 11 - Dec 12
 Hempstead, NY
 Music Education
-
