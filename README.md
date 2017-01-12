@@ -70,38 +70,21 @@ Hempstead, NY
 # RELEVANT SKILLS, TECHNOLGY, AND PROJECTS
 
 ## Cluster & Cloud Computing
-### AWS EC2, S3, IAM, and VPC
-*   Maintenance of IAM users and policies
-*   Spinning up and down Ubuntu machines inside our VPC from a base AMI
-*   Setup for Vault to use the AWS IAM creds and STS backends
+### Amazon Web Services
+*   	Day-to-day machine provisioning and maintenance
+* 	Maintenance of IAM users and policies
+* 	Creation of base AMIs for generic machines and StarClusters
+*	Setup for Vault (https://vaultproject.io) to use the AWS “creds” and “STS” backends
+
 
 ### StarCluster (https://star.mit.edu/cluster)
-*   Work with submitting and troubleshooting SGE jobs
-*   Experience upgrading and troubleshooting Load Balancer and node issues. 
+*   Work with submitting and troubleshooting Sun Grid Engine (SGE) jobs
+*   Experience upgrading and troubleshooting Load Balancer and node issues.
+*   Rudimentary plugin writing 
 
-## Networking technologies
-*   DHCP, DNS
-*   LDAP/OpenDJ 
-*   NFS, SaMBa
-*   OpenVPN
-
-## Security tools
-*   IPTables
-*   Vault (https://www.vaultproject.io)
-*   Endpoint Protector DLP (http://www.endpointprotector.com)
-
-## Linux/UNIX
-Ubuntu
-*   Cron
-*   SysVinit
-*   SSH/SSHLDAP (https://github.com/jirutka/ssh-ldap-pubkey)
-*   X.509 cert generation
-
-## Zulip
-*   Spun up a Zulip server in AWS for test use by GNS IT team
-*   Installed custom SSL cert from our internal CA
-*   Setup Zendesk integration for IT ticket queue
-*   Avid Zulip user at MIT
+## UNIX and Network technologies
+*  DHCP, DNS, LDAP/OpenDJ, Kerberos, OpenVPN, SSH, Sendmail, BIND, AFS, NFS, Kerberos, Apache
+*  macOS, Ubuntu, DebAthena, VMWare ESXi, cron, SysVinit, X.509 certs, emacs, bash
 
 ## Other
 ### HTML/CSS, Apache, Wordpress
