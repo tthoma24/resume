@@ -17,19 +17,19 @@ tthomas292@me.com
 
 Cambridge, MA
 
-*   Proven ability to explain issues and their resolution to users at all company levels, including C and D-level Executives.
+*	Proven ability to explain issues and their resolution to users at all company levels, including C and D-level Executives.
 
-*	Troubleshoot client and server side software and hardware issues. Provide resolutions to end users by email, phone, and in-person.
+*   	Troubleshoot client and server side software and hardware issues. Provide resolutions to end users by email, phone, and in-person.
 
-*   Reinstall and/or deploy new desktop and server hardware, including AWS EC2 instances.
+*   	Reinstall and/or deploy new desktop and server hardware, including AWS EC2 instances.
 
-*   Responsible for creation, deletion, and modification of LDAP and SaaS user accounts and associated permissions.
+*   	Responsible for creation, deletion, and modification of LDAP and SaaS user accounts and associated permissions.
 
-*   Assist Cloud Architect by triaging issues with cloud compute applications and services. Escalate as appropriate.
+*   	Assist Cloud Architect by triaging issues with cloud compute applications and services. Escalate as appropriate.
 
-*   Work with other IT team members to execute projects including moving services to new servers, email migration, physical office move, server security and HITRUST certification effort.
+*   	Work with other IT team members to execute projects including moving services to new servers, email migration, physical office move, server security and HITRUST certification effort.
 
-*   Recent experience with Agile and Scrum methodologies.
+*   	Recent experience with Agile and Scrum methodologies.
 
 ## IT Help Analyst II, MIT Information Systems and Technology | May 13 - May 15 
 
@@ -37,7 +37,7 @@ Cambridge, MA
 
 Initially hired as a temporary contractor, full time position beginning Jan 14
 
-*   Technical understanding for a wide range of issues; ability to explain issues and their resolution to non-technical users. Ability to remain calm and respectful with frustrated or upset users.
+*	Technical understanding for a wide range of issues; ability to explain issues and their resolution to non-technical users. Ability to remain calm and respectful with frustrated or upset users.
 
 *	Provided tier one email, phone, and walk-in technical support for MIT students, faculty, staff, and affiliates
 
@@ -59,7 +59,7 @@ Hempstead, NY
 
 *	Supported students who contacted the Helpdesk in person and over the phone.
 
-*   Supported student Macintosh and Windows computers, as well as student computer lab and classroom workstations. Occasional smartphone support.
+*	Supported student Macintosh and Windows computers, as well as student computer lab and classroom workstations. Occasional smartphone support.
 
 *	First line diagnosis of problems with wireless access points, printing services, Blackboard CMS,  AD and web service logins. Escalated as appropriate.
 
@@ -76,8 +76,8 @@ Hempstead, NY
 *   Setup for Vault to use the AWS IAM creds and STS backends
 
 ### StarCluster (https://star.mit.edu/cluster)
-*	Work with submitting and troubleshooting SGE jobs
-*	Experience upgrading and troubleshooting Load Balancer and node issues. 
+*   Work with submitting and troubleshooting SGE jobs
+*   Experience upgrading and troubleshooting Load Balancer and node issues. 
 
 ## Networking technologies
 *   DHCP, DNS
@@ -105,17 +105,17 @@ Ubuntu
 
 ## Other
 ### HTML/CSS, Apache, Wordpress
-*	Maintenance and updates of Wordpress installations
+*   Maintenance and updates of Wordpress installations
 *   Move of Wordpress install into AWS from a third party VM
-*	Configuration of Apache vhosts, htaccess, and SSL
+*   Configuration of Apache vhosts, htaccess, and SSL
 
-###	Drupal
+### Drupal
 *   Worked with other IS&T students and staff to deploy a new website for the Residential Computing team in the IS&T Helpdesk
 *   Features include ticket submission web forms, dynamic content from System Status page, and CSS/Javascript feature slideshow.
 *   Configured Request Tracker queues to parse mail headers and body to set custom ticket system fields. 
 *   Received an IS&T Spotlight Award for work on the site
 
-###	Asterisk
+### Asterisk
 * Set up a working Asterisk server for personal use using the FreePBX Web GUI and MIT’s Personal SIP service as a SIP trunk.
 
 # EDUCATION
