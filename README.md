@@ -3,7 +3,7 @@
 898 Massachusetts Avenue Apt 4  
 Cambridge, MA  02139  
 (978) 494-0721  
-tthomas292@me.com
+tthoma24@mit.edu
 
 ======
 # PROFESSIONAL SUMMARY
