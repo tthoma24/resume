@@ -19,19 +19,19 @@ Cambridge, MA
 
 *	Proven ability to explain issues and their resolution to users at all company levels, including C and D-level Executives.
 
-*   	Troubleshoot client and server side software and hardware issues. Provide resolutions to end users virtually/in-person. Escalate as appropriate.
+* Troubleshoot client and server side software and hardware issues. Provide resolutions to end users virtually/in-person. Escalate as appropriate.
 
-*   	Reinstall and/or deploy new desktop and server hardware and software.
+* Reinstall and/or deploy new desktop and server hardware and software.
 
-*   	Responsible for creation, deletion, and modification of LDAP and SaaS user accounts and associated permissions.
+* Responsible for creation, deletion, and modification of LDAP and SaaS user accounts and associated permissions.
 
-*   	Assist Cloud Architect by triaging issues with cloud compute applications and services, and the installation and configuration of new services. 
+* Assist Cloud Architect by triaging issues with cloud compute applications and services, and the installation and configuration of new services. 
 
-*   	Work closely with other IT team members to execute projects including moving services to AWS, email migration, physical office move, server security and HITRUST CSF (https://hitrustalliance.net/hitrust-csf)  certification effort.
+* Work closely with other IT team members to execute projects including moving services to AWS, email migration, physical office move, server security and HITRUST CSF (https://hitrustalliance.net/hitrust-csf)  certification effort.
 
 *	Provide security awareness trainings for new hires.
 
-*   	Recent experience with Agile and Scrum methodologies.
+* Recent experience with Agile and Scrum methodologies.
 
 ## IT Help Analyst II, MIT Information Systems and Technology | May 13 - May 15 
 
