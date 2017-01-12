@@ -19,15 +19,17 @@ Cambridge, MA
 
 *	Proven ability to explain issues and their resolution to users at all company levels, including C and D-level Executives.
 
-*   	Troubleshoot client and server side software and hardware issues. Provide resolutions to end users by email, phone, and in-person.
+*   	Troubleshoot client and server side software and hardware issues. Provide resolutions to end users virtually/in-person. Escalate as appropriate.
 
-*   	Reinstall and/or deploy new desktop and server hardware, including AWS EC2 instances.
+*   	Reinstall and/or deploy new desktop and server hardware and software.
 
 *   	Responsible for creation, deletion, and modification of LDAP and SaaS user accounts and associated permissions.
 
-*   	Assist Cloud Architect by triaging issues with cloud compute applications and services. Escalate as appropriate.
+*   	Assist Cloud Architect by triaging issues with cloud compute applications and services, and the installation and configuration of new services. 
 
-*   	Work with other IT team members to execute projects including moving services to new servers, email migration, physical office move, server security and HITRUST certification effort.
+*   	Work closely with other IT team members to execute projects including moving services to AWS, email migration, physical office move, server security and HITRUST CSF (https://hitrustalliance.net/hitrust-csf)  certification effort.
+
+*	Provide security awareness trainings for new hires.
 
 *   	Recent experience with Agile and Scrum methodologies.
 
@@ -45,7 +47,7 @@ Initially hired as a temporary contractor, full time position beginning Jan 14
 
 *	Coordinated and provided tier one and two support for cable TV, phone, and internet in MIT dormitories and independent living groups (ILGs). Escalated tier 3 network issues.
 
-*	Authored and maintained documentation for a wide variety of technology services within the MIT Confluence-based knowledge base.
+*	Authored and maintained documentation for a wide variety of technology and services within the MIT Confluence-based knowledge base.
 
 *	Assisted in the onboarding and training of new student workers in the Call Center, Walkins, and Residential Computing spaces.
 
