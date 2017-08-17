@@ -72,10 +72,10 @@ Proven talent for aligning business strategy and objectives with established tec
 
 ### CMS/Web Development
 ## Drupal
-*   Worked with other IS&T students and staff to deploy a new website for the Residential Computing team in the IS&T Helpdesk
-*   Features include ticket submission web forms, dynamic content from System Status page, and CSS/Javascript feature slideshow.
-*   Configured Request Tracker queues to parse mail headers and body to set custom ticket system fields. 
-*   Received an IS&T Spotlight Award for work on the site
+* Collaborated with IS&T students and staff to deploy a new website for the Residential Computing team in the IS&T Helpdesk, with features including ticket submission web forms, dynamic content from System Status page, and CSS/Javascript feature slideshow.
+* Configured Request Tracker queues with Perl scrips to parse mail headers and body of web form submissions to set custom ticket system fields. 
+* Received an MIT IS&T Spotlight Award for work on the site.
+
 
 ### Other
 ## MacAthena (http://github.com/macathena/macathena)
