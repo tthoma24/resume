@@ -79,8 +79,7 @@ Proven talent for aligning business strategy and objectives with established tec
 
 ### Other
 ## MacAthena (http://github.com/macathena/macathena)
-*   Through MIT SIPB (http://sipb.mit.edu)
-*   Working to port Athena packages to macOS, including the python automounter, moira utilities, and a customized greeter
+* Working to port MIT's Athena computing platform to macOS, including the Python automounter, moira utilities, and a customized login greeter.
 
 # UNIX and Network technologies
 *  DHCP, DNS, LDAP/OpenDJ, Kerberos, OpenVPN, SSH, Sendmail, BIND, AFS, NFS, Kerberos, Apache
