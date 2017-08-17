@@ -31,19 +31,13 @@ Proven talent for aligning business strategy and objectives with established tec
 ## MIT Information Systems and Technology, Cambridge, MA | May 2013 - May 2015 
 ### IT Help Analyst II
 
-Initially hired as a temporary contractor, full time position beginning Jan 14
+* Communicated technical understanding of a wide range of issues and their resolution to non-technical users. 
+* Provided tier 1 email, phone, and walk-in technical support for MIT students, faculty, staff, and affiliates.
+* Delivered tier 2 support for Education Systems, including the Stellar CMS, Google Apps for Education, and Confluence Wikis; escalated as appropriate.
+* Coordinated and provided tier 1 and 2 support for cable TV, phone, and Internet in MIT dormitories and independent living groups (ILGs); escalated tier 3 network issues.
+* Authored and maintained accurate documentation for a wide variety of technology and services within the MIT Confluence-based knowledge base.
+* Facilitated the training and mentoring of new student workers in the Call Center, Walkins, and Residential Computing spaces to promote swift onboarding and high productivity. 
 
-*	Technical understanding for a wide range of issues; ability to explain issues and their resolution to non-technical users. Ability to remain calm and respectful with frustrated or upset users.
-
-*	Provided tier one email, phone, and walk-in technical support for MIT students, faculty, staff, and affiliates
-
-*	Provided tier two support for Education Systems, including the Stellar CMS, Google Apps for Education, and Confluence Wikis. Escalated as appropriate.
-
-*	Coordinated and provided tier one and two support for cable TV, phone, and internet in MIT dormitories and independent living groups (ILGs). Escalated tier 3 network issues.
-
-*	Authored and maintained documentation for a wide variety of technology and services within the MIT Confluence-based knowledge base.
-
-*	Assisted in the onboarding and training of new student workers in the Call Center, Walkins, and Residential Computing spaces.
 
 ## Student Computing Services at Hofstra University, Hempstead, NY | Sep 2011 - Dec 2012
 ### Technical Support Specialist
