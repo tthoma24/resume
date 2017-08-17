@@ -12,25 +12,21 @@ Vision-driven change agent with career-long record of IT support, machine mainte
 Proven talent for aligning business strategy and objectives with established technical support and security paradigms to achieve maximum operational impacts with minimum resource expenditures. Efficiency-focused thought leader with expertise spanning system administration, computer and server security, hands-on and remote support, cross-functional team participation, complex problem-solving and troubleshooting, cluster and cloud computing, process optimization, security awareness training, customer service, and technology solutions. Exceptionally dedicated professional with keen interpersonal, communication, and organizational skills.
 
 # PROFESSIONAL EXPERIENCE
-## IT Support Specialist, GNS Healthcare | Jun 15 - Present 
+## GNS Healthcare, Cambridge MA | Jun 2015 - Present
+IT Support Specialist
 
-Cambridge, MA
+* Explain issues and their resolution to users at all company levels, including C and D-level executives.
+* Troubleshoot client- and server-side software and hardware issues; provide resolutions to end users virtually/in-person; escalate as appropriate.
+* Reinstall and/or deploy new desktop and server hardware.
+* Install and deploy new AWS-based servers utilizing EC2, S3, Glacier, VPC, RDS, and Redshift.
+* Install and configure software on AWS, VMware virtualized, and local Linux servers, including Apache, Tomcat, SSL certificates, Java, and Docker.
+* Create, delete, and modify LDAP and SaaS user accounts and associated permissions.
+* Assist Cloud Architect by triaging issues with cloud compute applications, services, and the installation and configuration of new services; gain experience with load balancing and HA.
+* Assist Junior IT Support Specialist with end-user incident resolution.
+* Author and maintain accurate documentation for a wide variety of technology and services within the Confluence-based knowledge base.
+* Collaborate with other IT team members to execute projects using Agile and Scrum methodologies. Projects include moving services into AWS, email migration, physical office move, server security and automation, and HITRUST CSF (https://hitrustalliance.net) certification effort.
+* Deliver security awareness trainings for new hires.
 
-*	Proven ability to explain issues and their resolution to users at all company levels, including C and D-level Executives.
-
-* Troubleshoot client and server side software and hardware issues. Provide resolutions to end users virtually/in-person. Escalate as appropriate.
-
-* Reinstall and/or deploy new desktop and server hardware and software.
-
-* Responsible for creation, deletion, and modification of LDAP and SaaS user accounts and associated permissions.
-
-* Assist Cloud Architect by triaging issues with cloud compute applications and services, and the installation and configuration of new services. 
-
-* Work closely with other IT team members to execute projects including moving services to AWS, email migration, physical office move, server security and HITRUST CSF (https://hitrustalliance.net/hitrust-csf)  certification effort.
-
-*	Provide security awareness trainings for new hires.
-
-* Recent experience with Agile and Scrum methodologies.
 
 ## IT Help Analyst II, MIT Information Systems and Technology | May 13 - May 15 
 
