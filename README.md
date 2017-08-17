@@ -28,7 +28,7 @@ Proven talent for aligning business strategy and objectives with established tec
 * Deliver security awareness trainings for new hires.
 
 
-## MIT Information Systems and Technology, Cambridge, MA | May 13 - May 15 
+## MIT Information Systems and Technology, Cambridge, MA | May 2013 - May 2015 
 ### IT Help Analyst II
 
 Initially hired as a temporary contractor, full time position beginning Jan 14
@@ -45,7 +45,7 @@ Initially hired as a temporary contractor, full time position beginning Jan 14
 
 *	Assisted in the onboarding and training of new student workers in the Call Center, Walkins, and Residential Computing spaces.
 
-## Student Computing Services at Hofstra University, Hempstead, NY | Sep 11 - Dec 12
+## Student Computing Services at Hofstra University, Hempstead, NY | Sep 2011 - Dec 2012
 ### Technical Support Specialist
 
 25 hrs. /week
@@ -94,6 +94,6 @@ Initially hired as a temporary contractor, full time position beginning Jan 14
 
 # EDUCATION
 
-### Hofstra University | Sep 11 - Dec 12
+### Hofstra University | Sep 2011 - Dec 2012
 Hempstead, NY
 Music Education
