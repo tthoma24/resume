@@ -50,35 +50,38 @@ Proven talent for aligning business strategy and objectives with established tec
 * Resolved issues including password resets, disabled login accounts, print release issues, MS Office Suite questions and errors, problems with web services, installing drivers and software, device network registrations, and connectivity issues.
 
 
-# RELEVANT SKILLS, TECHNOLGY, AND PROJECTS
+# RELEVANT PROJECTS
 
-## Cluster & Cloud Computing
-### Amazon Web Services
+### Cluster & Cloud Computing
+## Amazon Web Services
+
 *   	Day-to-day machine provisioning and maintenance
 * 	Maintenance of IAM users and policies
 * 	Creation of base AMIs for generic machines and StarClusters
 *	Setup for Vault (https://vaultproject.io) to use the AWS “creds” and “STS” backends
 
-### StarCluster (https://star.mit.edu/cluster)
+### Cluster & Cloud Computing
+## StarCluster (https://star.mit.edu/cluster)
+
 *   Work with submitting and troubleshooting Sun Grid Engine (SGE) jobs
 *   Experience upgrading and troubleshooting Load Balancer and node issues.
 *   Rudimentary plugin writing 
 
-## UNIX and Network technologies
-*  DHCP, DNS, LDAP/OpenDJ, Kerberos, OpenVPN, SSH, Sendmail, BIND, AFS, NFS, Kerberos, Apache
-*  macOS, Ubuntu, DebAthena, VMWare ESXi, cron, SysVinit, X.509 certs, emacs, bash
-
-## Other Projects
-
-### Drupal
+### CMS/Web Development
+## Drupal
 *   Worked with other IS&T students and staff to deploy a new website for the Residential Computing team in the IS&T Helpdesk
 *   Features include ticket submission web forms, dynamic content from System Status page, and CSS/Javascript feature slideshow.
 *   Configured Request Tracker queues to parse mail headers and body to set custom ticket system fields. 
 *   Received an IS&T Spotlight Award for work on the site
 
-### MacAthena (http://github.com/macathena/macathena)
+### Other
+## MacAthena (http://github.com/macathena/macathena)
 *   Through MIT SIPB (http://sipb.mit.edu)
 *   Working to port Athena packages to macOS, including the python automounter, moira utilities, and a customized greeter
+
+# UNIX and Network technologies
+*  DHCP, DNS, LDAP/OpenDJ, Kerberos, OpenVPN, SSH, Sendmail, BIND, AFS, NFS, Kerberos, Apache
+*  macOS, Ubuntu, DebAthena, VMWare ESXi, cron, SysVinit, X.509 certs, emacs, bash
 
 # EDUCATION
 
