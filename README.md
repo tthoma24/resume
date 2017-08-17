@@ -28,9 +28,8 @@ Proven talent for aligning business strategy and objectives with established tec
 * Deliver security awareness trainings for new hires.
 
 
-## IT Help Analyst II, MIT Information Systems and Technology | May 13 - May 15 
-
-Cambridge, MA
+## MIT Information Systems and Technology, Cambridge, MA | May 13 - May 15 
+### IT Help Analyst II
 
 Initially hired as a temporary contractor, full time position beginning Jan 14
 
