@@ -55,10 +55,12 @@ Proven talent for aligning business strategy and objectives with established tec
 ### Cluster & Cloud Computing
 ## Amazon Web Services
 
-*   	Day-to-day machine provisioning and maintenance
-* 	Maintenance of IAM users and policies
-* 	Creation of base AMIs for generic machines and StarClusters
-*	Setup for Vault (https://vaultproject.io) to use the AWS “creds” and “STS” backends
+* Experience with EC2, S3, Glacier, IAM, VPC, RDS, Redshift, and ECS.
+* Maintenance of individual servers and applications, as well as HA services and HPC clusters.
+* Created base AMIs for generic machines and StarClusters.
+* Maintenance of IAM policies and users.
+* Set up Vault (https://vaultproject.io) in high-availability and to use AWS IAM backends
+
 
 ### Cluster & Cloud Computing
 ## StarCluster (https://star.mit.edu/cluster)
