@@ -11,7 +11,7 @@ Vision-driven change agent with career-long record of IT support, machine mainte
 
 Proven talent for aligning business strategy and objectives with established technical support and security paradigms to achieve maximum operational impacts with minimum resource expenditures. Efficiency-focused thought leader with expertise spanning system administration, computer and server security, hands-on and remote support, cross-functional team participation, complex problem-solving and troubleshooting, cluster and cloud computing, process optimization, security awareness training, customer service, and technology solutions. Exceptionally dedicated professional with keen interpersonal, communication, and organizational skills.
 
-# EXPERIENCE
+# PROFESSIONAL EXPERIENCE
 ## IT Support Specialist, GNS Healthcare | Jun 15 - Present 
 
 Cambridge, MA
