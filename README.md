@@ -42,19 +42,13 @@ Proven talent for aligning business strategy and objectives with established tec
 ## Student Computing Services at Hofstra University, Hempstead, NY | Sep 2011 - Dec 2012
 ### Technical Support Specialist
 
-25 hrs. /week
+* Demonstrated expertise as first-line technical support for Hofstra’s 10,000 students.
+* Provided in-person and remote support to students who contacted the Helpdesk.
+* Ensured smooth operation of student Macintosh computers, Windows computers, smartphones, as well as student computer lab and classroom workstations. 
+* Diagnosed problems with wireless access points, printing services, Blackboard CMS, AD, and web service logins; escalated as appropriate.
+* Triaged issues with Google Apps for Education services.
+* Resolved issues including password resets, disabled login accounts, print release issues, MS Office Suite questions and errors, problems with web services, installing drivers and software, device network registrations, and connectivity issues.
 
-*	First line technical support for Hofstra’s 10,000 students
-
-*	Supported students who contacted the Helpdesk in person and over the phone.
-
-*	Supported student Macintosh and Windows computers, as well as student computer lab and classroom workstations. Occasional smartphone support.
-
-*	First line diagnosis of problems with wireless access points, printing services, Blackboard CMS,  AD and web service logins. Escalated as appropriate.
-
-*	Supported and triaged issues with Google Apps for Education services. Escalated as appropriate.
-
-*	Primary issues resolved: password resets, disabled login accounts, print release issues, MS Office suite questions and errors, problems with web services, installing drivers and software, device network registrations, and connectivity issues.
 
 # RELEVANT SKILLS, TECHNOLGY, AND PROJECTS
 
