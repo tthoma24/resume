@@ -85,7 +85,7 @@ Proven talent for aligning business strategy and objectives with established tec
 
 # EDUCATION
 ### Hofstra University, Hempstead, NY | Sep 2011 - Dec 2012
-Coursework completed toward Bachelor of Science in Education (b.S.Ed.) in Music Education
+Coursework completed toward Bachelor of Science in Education (B.S.Ed.) in Music Education
 
 # ADDITIONAL INFORMATION
 ## Technical Proficiencies
