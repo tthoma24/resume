@@ -13,7 +13,7 @@ Proven talent for aligning business strategy and objectives with established tec
 
 # PROFESSIONAL EXPERIENCE
 ## GNS Healthcare, Cambridge MA | Jun 2015 - Present
-IT Support Specialist
+### IT Support Specialist
 
 * Explain issues and their resolution to users at all company levels, including C and D-level executives.
 * Troubleshoot client- and server-side software and hardware issues; provide resolutions to end users virtually/in-person; escalate as appropriate.
