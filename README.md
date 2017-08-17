@@ -87,6 +87,5 @@ Proven talent for aligning business strategy and objectives with established tec
 
 # EDUCATION
 
-### Hofstra University | Sep 2011 - Dec 2012
-Hempstead, NY
-Music Education
+### Hofstra University, Hempstead, NY | Sep 2011 - Dec 2012
+COURSEWORK COMPLETED TOWARD BACHELOR OF SCIENCE IN EDUCATION (B.S.ED.) IN MUSIC EDUCATION
