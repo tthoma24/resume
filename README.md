@@ -45,9 +45,8 @@ Initially hired as a temporary contractor, full time position beginning Jan 14
 
 *	Assisted in the onboarding and training of new student workers in the Call Center, Walkins, and Residential Computing spaces.
 
-## Technical Support Specialist, Student Computing Services at Hofstra University | Sep 11 - Dec 12
-
-Hempstead, NY
+## Student Computing Services at Hofstra University, Hempstead, NY | Sep 11 - Dec 12
+### Technical Support Specialist
 
 25 hrs. /week
 
