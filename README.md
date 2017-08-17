@@ -65,9 +65,10 @@ Proven talent for aligning business strategy and objectives with established tec
 ### Cluster & Cloud Computing
 ## StarCluster (https://star.mit.edu/cluster)
 
-*   Work with submitting and troubleshooting Sun Grid Engine (SGE) jobs
-*   Experience upgrading and troubleshooting Load Balancer and node issues.
-*   Rudimentary plugin writing 
+* Experience configuring and submitting Sun Grid Engine (SGE) jobs.
+* Spun up and upgraded clusters and Load Balancers.
+* Performed rudimentary plugin writing utilizing foundational Python skills.
+
 
 ### CMS/Web Development
 ## Drupal
