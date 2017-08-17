@@ -5,6 +5,7 @@ Cambridge, MA  02139
 (978) 494-0721  
 tthoma24@mit.edu
 
+[comment]: # (Empty line below should be maintained to keep long line separating contact info from Objectove sectio when viewed on GitHub)
 #  
 # OBJECTIVE
 ## Vision-driven change agent with career-long record of IT support, machine maintenance, and technical documentation for leading organizations
