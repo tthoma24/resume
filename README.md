@@ -89,3 +89,8 @@ Proven talent for aligning business strategy and objectives with established tec
 
 ### Hofstra University, Hempstead, NY | Sep 2011 - Dec 2012
 COURSEWORK COMPLETED TOWARD BACHELOR OF SCIENCE IN EDUCATION (B.S.ED.) IN MUSIC EDUCATION
+
+# HOBBIES
+### Singing
+### Playing Trumpet
+### Tinkering with home automation and the Internet of Things
