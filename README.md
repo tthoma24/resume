@@ -81,16 +81,15 @@ Proven talent for aligning business strategy and objectives with established tec
 ## MacAthena (http://github.com/macathena/macathena)
 * Working to port MIT's Athena computing platform to macOS, including the Python automounter, moira utilities, and a customized login greeter.
 
-# UNIX and Network technologies
-*  DHCP, DNS, LDAP/OpenDJ, Kerberos, OpenVPN, SSH, Sendmail, BIND, AFS, NFS, Kerberos, Apache
-*  macOS, Ubuntu, DebAthena, VMWare ESXi, cron, SysVinit, X.509 certs, emacs, bash
+
 
 # EDUCATION
-
 ### Hofstra University, Hempstead, NY | Sep 2011 - Dec 2012
 Coursework completed toward Bachelor of Science in Education (b.S.Ed.) in Music Education
 
-# HOBBIES
-### Singing
-### Playing Trumpet
-### Tinkering with home automation and the Internet of Things
+# ADDITIONAL INFORMATION
+## Technical Proficiencies
+Cluster/cloud computing, DHCP, DNS, LDAP/OpenDJ, OpenVPN, SSH, Sendmail, BIND, AFS, NFS, Kerberos, Apache, NGINX, WordPress, macOS, Ubuntu, VMWare ESXi, cron, SysVinit, X.509 certs, emacs, bash
+
+## Hobbies
+Singing, Playing Trumpet, Tinkering with home automation and the Internet of Things
