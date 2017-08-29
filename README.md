@@ -13,7 +13,7 @@ tthoma24@mit.edu
 Proven talent for aligning business strategy and objectives with established technical support and security paradigms to achieve maximum operational impacts with minimum resource expenditures. Efficiency-focused thought leader with expertise spanning system administration, computer and server security, hands-on and remote support, cross-functional team participation, complex problem-solving and troubleshooting, cluster and cloud computing, process optimization, security awareness training, customer service, and technology solutions. Exceptionally dedicated professional with keen interpersonal, communication, and organizational skills.
 
 # PROFESSIONAL EXPERIENCE
-## GNS Healthcare, Cambridge MA | Jun 2015 - Present
+## GNS Healthcare, Cambridge MA | Jun 2015 - Aug 2017
 ### IT Support Specialist
 
 * Explain issues and their resolution to users at all company levels, including C and D-level executives.
