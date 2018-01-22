@@ -61,7 +61,7 @@ Proven talent for aligning business strategy and objectives with established tec
 * Experience with EC2, S3, Glacier, IAM, VPC, RDS, Redshift, and ECS.
 * Maintenance of individual servers and applications, as well as HA services and HPC clusters.
 * Created base AMIs for generic machines and StarClusters.
-* Maintenance of IAM policies and users.
+* Maintenance of IAM policies and users for individuals users and Assumed Role service accounts.
 * Set up Vault (https://vaultproject.io) in high-availability and to use AWS IAM backends
 
 
