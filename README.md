@@ -70,6 +70,7 @@ Proven talent for aligning business strategy and objectives with established tec
 
 * Experience configuring and submitting Sun Grid Engine (SGE) jobs.
 * Spun up and upgraded clusters and Load Balancers.
+* Built, tested, and implemented a new server AMI based on new Ubuntu 16.04 LTS.
 * Performed rudimentary plugin writing utilizing foundational Python skills.
 
 
@@ -83,7 +84,7 @@ Proven talent for aligning business strategy and objectives with established tec
 ### Other
 ## MacAthena (http://github.com/macathena/macathena)
 * Working to port MIT's Athena computing platform to macOS, including the Python automounter, moira utilities, and a customized login greeter.
-
+* Recent experience with CI/CD pipeline integration with GitHub to autobuild new commits and run regression and unit tests.
 
 
 # EDUCATION
