@@ -6,7 +6,7 @@ New York, NY  10031-6538
 (516) 413-0320  
 tthoma24@mit.edu
 
-[comment]: # (Empty line below should be maintained to keep long line separating contact info from Objectove sectio when viewed on GitHub)
+[comment]: # (Empty line below should be maintained to keep long line separating contact info from Objectove section when viewed on GitHub)
 #  
 # OBJECTIVE
 ## Vision-driven change agent with career-long record of IT support, system administration, and technical documentation for leading organizations
