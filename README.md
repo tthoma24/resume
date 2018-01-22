@@ -9,7 +9,7 @@ tthoma24@mit.edu
 [comment]: # (Empty line below should be maintained to keep long line separating contact info from Objectove sectio when viewed on GitHub)
 #  
 # OBJECTIVE
-## Vision-driven change agent with career-long record of IT support, machine maintenance, and technical documentation for leading organizations
+## Vision-driven change agent with career-long record of IT support, system administration, and technical documentation for leading organizations
 
 Proven talent for aligning business strategy and objectives with established technical support and security paradigms to achieve maximum operational impacts with minimum resource expenditures. Efficiency-focused thought leader with expertise spanning system administration, computer and server security, hands-on and remote support, cross-functional team participation, complex problem-solving and troubleshooting, cluster and cloud computing, process optimization, security awareness training, customer service, and technology solutions. Exceptionally dedicated professional with keen interpersonal, communication, and organizational skills.
 
@@ -17,17 +17,17 @@ Proven talent for aligning business strategy and objectives with established tec
 ## GNS Healthcare, Cambridge MA | Jun 2015 - Aug 2017
 ### IT Support Specialist
 
-* Explain issues and their resolution to users at all company levels, including C and D-level executives.
-* Troubleshoot client- and server-side software and hardware issues; provide resolutions to end users virtually/in-person; escalate as appropriate.
-* Reinstall and/or deploy new desktop and server hardware.
-* Install and deploy new AWS-based servers utilizing EC2, S3, Glacier, VPC, RDS, and Redshift.
-* Install and configure software on AWS, VMware virtualized, and local Linux servers, including Apache, Tomcat, SSL certificates, Java, and Docker.
-* Create, delete, and modify LDAP and SaaS user accounts and associated permissions.
-* Assist Cloud Architect by triaging issues with cloud compute applications, services, and the installation and configuration of new services; gain experience with load balancing and HA.
-* Assist Junior IT Support Specialist with end-user incident resolution.
-* Author and maintain accurate documentation for a wide variety of technology and services within the Confluence-based knowledge base.
-* Collaborate with other IT team members to execute projects using Agile and Scrum methodologies. Projects include moving services into AWS, email migration, physical office move, server security and automation, and HITRUST CSF (https://hitrustalliance.net) certification effort.
-* Deliver security awareness trainings for new hires.
+* Explained issues and their resolution to users at all company levels, including C and D-level executives.
+* Worked to troubleshoot client- and server-side software and hardware issues; provided resolutions to end users virtually/in-person; escalated as appropriate.
+* Reinstalled and/or deployed new desktop and server hardware.
+* Installed and deployed new AWS-based servers utilizing EC2, S3, Glacier, VPC, RDS, and Redshift.
+* Installed and configured software on AWS, VMware virtualized, and local Linux servers, including Apache, Tomcat, SSL certificates, Java, and Docker.
+* Created, deleted, and modified LDAP and SaaS user accounts and associated permissions for all company users.
+* Assisted Cloud Architect by triaging issues with cloud compute applications, services, and the installation and configuration of new services; gained experience with parallel/cluster computing, load balancing and HA.
+* Served as an escalation point for Junior IT Support Specialist with end-user incident resolution.
+* Authored and maintained accurate documentation for a wide variety of technology and services within the Confluence-based knowledge base.
+* Collaborated with other IT team members to execute projects using Agile and Scrum methodologies. Projects included moving on-prem services into AWS, email migration, physical office move, server security and automation, and HITRUST CSF (https://hitrustalliance.net) certification effort.
+* Delivered security awareness trainings for new hires.
 
 
 ## MIT Information Systems and Technology, Cambridge, MA | May 2013 - May 2015 
