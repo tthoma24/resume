@@ -17,11 +17,11 @@ Proven talent for aligning business strategy and objectives with established tec
 ## Columbia Business School, New York, NY | Dec 2017 - Present
 ### Systems Analyst
 
-* Assist with maintaining, documenting, patching, and upgrading all hardware and software on multiple servers.
-* Coordinate within and across teams to plan and execute ongoing projects. Projects include Enterprise Imaging enhancements, server refresh, and system monitoring enhancements.
+* Assist with maintaining, documenting, patching, and upgrading all hardware and software on Windows and Linux servers.
+* Coordinate within and across teams to plan and execute ongoing projects. Projects include Enterprise Imaging enhancements to JAMF Pro, VMware ESXi patching, and Zenoss monitoring system enhancements.
 * Participate in the planning and implementation of new installations and upgrades of hardware and software.
-* Research, test, and evaluate new systems.
-* Assist in the planning, implementation, and administration of various web services/servers such as, Single Sign On System (SSO), Password Management (PWM), Drupal Systems, and other systems as needed.
+* Research, test, and evaluate new systems and services.
+* Assist in the planning, implementation, and administration of various web services/servers, such as CAS Single Sign On System (SSO), Password Management (PWM), Drupal Systems, and other systems as needed.
 * Provide 3rd tier support to the Client Support Group to resolve complex problems.
 
 
