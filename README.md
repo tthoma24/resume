@@ -26,6 +26,7 @@ Proven talent for aligning business strategy and objectives with established tec
 * Assisted Cloud Architect by triaging issues with cloud compute applications, services, and the installation and configuration of new services; gained experience with parallel/cluster computing, load balancing and HA.
 * Served as an escalation point for Junior IT Support Specialist with end-user incident resolution.
 * Authored and maintained accurate documentation for a wide variety of technology and services within the Confluence-based knowledge base.
+* Coordinated vendor management activities with the IT Manager and CIO, including evaluations, implementations, contract renewal, and support requests.
 * Collaborated with other IT team members to execute projects using Agile and Scrum methodologies. Projects included moving on-prem services into AWS, email migration, physical office move, server security and automation, and HITRUST CSF (https://hitrustalliance.net) certification effort.
 * Delivered security awareness trainings for new hires.
 
