@@ -11,7 +11,7 @@ tthoma24@mit.edu
 # OBJECTIVE
 ## Vision-driven change agent with career-long record of IT support, system administration, and technical documentation for leading organizations
 
-Proven talent for aligning business strategy and objectives with established technical support and security paradigms to achieve maximum operational impacts with minimum resource expenditures. Efficiency-focused thought leader with expertise spanning system administration, computer and server security, hands-on and remote support, cross-functional team participation, complex problem-solving and troubleshooting, cluster and cloud computing, process optimization, security awareness training, customer service, and technology solutions. Exceptionally dedicated professional with keen interpersonal, communication, and organizational skills.
+Proven talent for aligning business strategy and objectives with established technical support and security paradigms to achieve maximum operational impacts with minimum resource expenditures. Efficiency-focused thought leader with expertise spanning system administration, computer and server security, hands-on and remote support, cross-functional team participation, complex problem-solving and troubleshooting, cluster and cloud computing, process optimization, security awareness training, customer service, and technology solutions. Exceptionally dedicated and precise professional with keen interpersonal, communication, and organizational skills.
 
 # PROFESSIONAL EXPERIENCE
 ## GNS Healthcare, Cambridge MA | Jun 2015 - Aug 2017
