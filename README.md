@@ -1,6 +1,7 @@
 # Teddy Thomas
 
-536 West 143rd Street, Apt 24
+536 West 143rd Street  
+Apt 24  
 New York, NY  10031-6538  
 (516) 413-0320  
 tthoma24@mit.edu
