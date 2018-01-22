@@ -14,6 +14,17 @@ tthoma24@mit.edu
 Proven talent for aligning business strategy and objectives with established technical support and security paradigms to achieve maximum operational impacts with minimum resource expenditures. Efficiency-focused thought leader with expertise spanning system administration, computer and server security, hands-on and remote support, cross-functional team participation, complex problem-solving and troubleshooting, cluster and cloud computing, process optimization, security awareness training, customer service, and technology solutions. Exceptionally dedicated and precise professional with keen interpersonal, communication, and organizational skills.
 
 # PROFESSIONAL EXPERIENCE
+## Columbia Business School, New York, NY | Dec 2017 - Present
+### Systems Analyst
+
+* Assist with maintaining, documenting, patching, and upgrading all hardware and software on multiple servers.
+* Coordinate within and across teams to plan and execute ongoing projects. Projects include Enterprise Imaging enhancements, server refresh, and system monitoring enhancements.
+* Participate in the planning and implementation of new installations and upgrades of hardware and software.
+* Research, test, and evaluate new systems.
+* Assist in the planning, implementation, and administration of various web services/servers such as, Single Sign On System (SSO), Password Management (PWM), Drupal Systems, and other systems as needed.
+* Provide 3rd tier support to the Client Support Group to resolve complex problems.
+
+
 ## GNS Healthcare, Cambridge MA | Jun 2015 - Aug 2017
 ### IT Support Specialist
 
@@ -61,7 +72,7 @@ Proven talent for aligning business strategy and objectives with established tec
 * Experience with EC2, S3, Glacier, IAM, VPC, RDS, Redshift, and ECS.
 * Maintenance of individual servers and applications, as well as HA services and HPC clusters.
 * Created base AMIs for generic machines and StarClusters.
-* Maintenance of IAM policies and users for individuals users and Assumed Role service accounts.
+* Maintenance of IAM policies and accounts for individual users and Assumed Role service accounts.
 * Set up Vault (https://vaultproject.io) in high-availability and to use AWS IAM backends
 
 
@@ -76,7 +87,7 @@ Proven talent for aligning business strategy and objectives with established tec
 
 ### CMS/Web Development
 ## Drupal
-* Collaborated with IS&T students and staff to deploy a new website for the Residential Computing team in the IS&T Helpdesk, with features including ticket submission web forms, dynamic content from System Status page, and CSS/Javascript feature slideshow.
+* Collaborated with IS&T students and staff to deploy a new website for the Residential Computing team in the IS&T Helpdesk, with features including ticket submission web forms, dynamic content from System Status page, and CSS/JavaScript feature slideshow.
 * Configured Request Tracker queues with Perl scrips to parse mail headers and body of web form submissions to set custom ticket system fields. 
 * Received an MIT IS&T Spotlight Award for work on the site.
 
