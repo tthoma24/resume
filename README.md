@@ -1,7 +1,8 @@
 # Teddy Thomas
 
-898 Massachusetts Avenue Apt 4  
-Cambridge, MA  02139  
+536 West 143rd Street
+Apt 24
+New York, NY  10031-6538  
 (516) 413-0320  
 tthoma24@mit.edu
 
