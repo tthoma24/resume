@@ -15,7 +15,7 @@ Proven talent for aligning business strategy and objectives with established sup
 
 # PROFESSIONAL EXPERIENCE
 ## Columbia University, New York, NY | Nov 2017 - Present
-### Systems Analyst
+### Systems Engineer
 
 * Responsible for maintaining, documenting, patching, and upgrading all hardware and software on approximately 200 servers in the Business School.
 * Coordinate within and across teams to plan and execute ongoing projects. Projects include Gitlab CI/CD for CAS deployments, VMware vSphere upgrades, SVN to Git Migration, and MediaWiki to Confluence migration.
