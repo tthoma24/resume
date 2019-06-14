@@ -21,7 +21,7 @@ Proven talent for aligning business strategy and objectives with established sup
 * Coordinate within and across teams to plan and execute ongoing projects. Projects include Gitlab CI/CD for CAS deployments, VMware vSphere upgrades, SVN to Git Migration, and MediaWiki to Confluence migration.
 * Participate in the engineering and evaluation of new installations and upgrades of hardware and software. Projects include staging server for CAS SSO in Azure, and addition of new ESXi nodes.
 * Primary maintainer of various web services/servers, such as CAS Single Sign On System (SSO), Azure DR environment, Drupal Systems, VMware vSphere, DHCP, and others.
-* Maintainer of Configuration Management workflows on Linux servers using Puppet.
+* Maintainer of Configuration Management workflows on Linux servers using Puppet. Recently setup a code approval process in GitLab after the SVN to Git Migration of the Business School's Puppet code.
 * Provide 3rd tier support to the Client Support Group to resolve complex problems.
 * Participation in ongoing multi-year, multi-million dollar efforts to integrate all Business School IT infra and personnel into Columbia University IT (CUIT). Recent projects include Drupal migration to CUIT’s CI platform, Access and Data Center network refresh to CUIT, and integration of IDM functions between ADCU and UniApp and CBS’ AD and IDM systems.
 
@@ -102,8 +102,12 @@ Proven talent for aligning business strategy and objectives with established sup
 ### Other
 ## MacAthena (http://github.com/macathena/macathena)
 * Working to port MIT's Athena computing platform to macOS, including the Python automounter, moira utilities, and a customized login greeter.
-* Recent experience with CI/CD pipeline integration with GitHub to autobuild new commits and run regression and unit tests.
+* Setup CI/CD pipeline integration with GitHub and TravisCI to autobuild new commits and run regression and unit tests.
 
+### Other
+## CI/CD
+* Setup CI/CD pipeline integration for MacAthena project (above).
+* Recent experience with GitLabCI (https://about.gitlab.com/product/continuous-integration/) at CU to build CAS SSO Java WAR file with Maven, and deploy the WAR file in an automated fashion on dev, stag, and prod server infrastructure, saving at least an hour per deployment.
 
 # EDUCATION
 ### Hofstra University, Hempstead, NY | Sep 2011 - Dec 2012
