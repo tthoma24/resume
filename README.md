@@ -78,7 +78,7 @@ Proven talent for aligning business strategy and objectives with established sup
 * Maintenance of IAM policies and accounts for individual users and Assumed Role service accounts.
 * Set up Vault (https://vaultproject.io) in high-availability and to use AWS IAM backends
 * Maintain a personal AWS account with VPN tunnel to home, and Route 53 DNS domains for personal services.
-* Recent experience at CU with AWS Lambda for creating simple S3 data pipeline to integrate with an external vendor's application.
+* Recent experience at CU with AWS Lambda for creating simple S3 data pipeline to integrate with an external vendor's application, and Lambda@Edge for serving static web assets through Cloudfront.
 
 
 ### Cluster & Cloud Computing
