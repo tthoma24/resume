@@ -45,15 +45,15 @@ Proven talent for aligning business strategy and objectives with established sup
 
 
 
-## MIT Information Systems and Technology, Cambridge, MA | May 2013 - May 2015 
+## MIT Information Systems and Technology, Cambridge, MA | May 2013 - May 2015
 ### IT Help Analyst II
 
-* Communicated technical understanding of a wide range of issues and their resolution to non-technical users. 
+* Communicated technical understanding of a wide range of issues and their resolution to non-technical users.
 * Provided tier 1 email, phone, and walk-in technical support for MIT students, faculty, staff, and affiliates.
 * Delivered tier 2 support for Education Systems, including the Stellar CMS, Google Apps for Education, and Confluence Wikis; escalated as appropriate.
 * Coordinated and provided tier 1 and 2 support for cable TV, phone, and Internet in MIT dormitories and independent living groups (ILGs); escalated tier 3 network issues.
 * Authored and maintained accurate documentation for a wide variety of technology and services within the MIT Confluence-based knowledge base.
-* Facilitated the training and mentoring of new student workers in the Call Center, Walkins, and Residential Computing spaces to promote swift onboarding and high productivity. 
+* Facilitated the training and mentoring of new student workers in the Call Center, Walkins, and Residential Computing spaces to promote swift onboarding and high productivity.
 
 
 ## Student Computing Services at Hofstra University, Hempstead, NY | Sep 2011 - Dec 2012
@@ -61,7 +61,7 @@ Proven talent for aligning business strategy and objectives with established sup
 
 * Demonstrated expertise as first-line technical support for Hofstra’s 10,000 students.
 * Provided in-person and remote support to students who contacted the Helpdesk.
-* Ensured smooth operation of student Macintosh computers, Windows computers, smartphones, as well as student computer lab and classroom workstations. 
+* Ensured smooth operation of student Macintosh computers, Windows computers, smartphones, as well as student computer lab and classroom workstations.
 * Diagnosed problems with wireless access points, printing services, Blackboard CMS, AD, and web service logins; escalated as appropriate.
 * Triaged issues with Google Apps for Education services.
 * Resolved issues including password resets, disabled login accounts, print release issues, MS Office Suite questions and errors, problems with web services, installing drivers and software, device network registrations, and connectivity issues.
@@ -93,7 +93,7 @@ Proven talent for aligning business strategy and objectives with established sup
 ### CMS/Web Development
 ## Drupal
 * Collaborated with IS&T students and staff to deploy a new website for the Residential Computing team in the IS&T Helpdesk, with features including ticket submission web forms, dynamic content from System Status page, and CSS/JavaScript feature slideshow.
-* Configured Request Tracker queues with Perl scrips to parse mail headers and body of web form submissions to set custom ticket system fields. 
+* Configured Request Tracker queues with Perl scrips to parse mail headers and body of web form submissions to set custom ticket system fields.
 * Received an MIT IS&T Spotlight Award for work on the site.
 * Primary systems maintainer of Columbia Business School’s Drupal environment, including Varnish, Couchbase, and F5 LTM load balancing.
 * Recently finished migration of Drupal into CUIT’s Drupal service, including work with CUIT to setup an HA database and memcache solution.
@@ -113,11 +113,11 @@ Proven talent for aligning business strategy and objectives with established sup
 ### Hofstra University, Hempstead, NY | Sep 2011 - Dec 2012
 Coursework completed toward Bachelor of Science in Education (B.S.Ed.) in Music Education
 
-### Software Carpentries Certified Instructor, Dec 2019
+### Software Carpentries Certified Instructor, Dec 2018
 https://carpentries.org/about/
 
-### SumoLogic Pro User and Power User certified, MAY 2019
-Certification IDs: a58a-5735-946f-f40d, 150e-316a-1ed6-3e65 
+### SumoLogic Pro User and Power User certified, May 2019
+Certification IDs: a58a-5735-946f-f40d, 150e-316a-1ed6-3e65
 
 
 # ADDITIONAL INFORMATION
