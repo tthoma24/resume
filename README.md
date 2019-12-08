@@ -110,6 +110,9 @@ Proven talent for aligning business strategy and objectives with established sup
 * Recent experience with GitLabCI (https://about.gitlab.com/product/continuous-integration/) at CU to build CAS SSO Java WAR file with Maven, and deploy the WAR file in an automated fashion on dev, stag, and prod server infrastructure, saving at least an hour per deployment.
 
 # EDUCATION AND CREDENTIALS
+### AWS Certified Solutions Architect - Associate, Dec 2019
+Validation Number: 15Q6RNGCNJREQ7WE 
+
 ### SumoLogic Pro User and Power User certified, May 2019
 Certification IDs: a58a-5735-946f-f40d, 150e-316a-1ed6-3e65
 
