@@ -110,14 +110,14 @@ Proven talent for aligning business strategy and objectives with established sup
 * Recent experience with GitLabCI (https://about.gitlab.com/product/continuous-integration/) at CU to build CAS SSO Java WAR file with Maven, and deploy the WAR file in an automated fashion on dev, stag, and prod server infrastructure, saving at least an hour per deployment.
 
 # EDUCATION AND CREDENTIALS
-### Hofstra University, Hempstead, NY | Sep 2011 - Dec 2012
-Coursework completed toward Bachelor of Science in Education (B.S.Ed.) in Music Education
+### SumoLogic Pro User and Power User certified, May 2019
+Certification IDs: a58a-5735-946f-f40d, 150e-316a-1ed6-3e65
 
 ### Software Carpentries Certified Instructor, Dec 2018
 https://carpentries.org/about/
 
-### SumoLogic Pro User and Power User certified, May 2019
-Certification IDs: a58a-5735-946f-f40d, 150e-316a-1ed6-3e65
+### Hofstra University, Hempstead, NY | Sep 2011 - Dec 2012
+Coursework completed toward Bachelor of Science in Education (B.S.Ed.) in Music Education
 
 
 # ADDITIONAL INFORMATION
