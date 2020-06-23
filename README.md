@@ -19,7 +19,7 @@ Proven talent for aligning business strategy and objectives with established sup
 
 * Responsible for maintaining, documenting, patching, and upgrading all hardware and software on approximately 200 servers in the Business School.
 * Coordinate within and across teams to plan and execute ongoing projects. Projects include Gitlab CI/CD for CAS deployments, VMware vSphere upgrades, SVN to Git Migration, and MediaWiki to Confluence migration.
-* Participate in the engineering and evaluation of new installations and upgrades of hardware and software. Projects include staging server for CAS SSO in Azure, deployment of AWS CloudFront for static web assets, and addition of new ESXi nodes.
+* Participate in the engineering and evaluation of new installations and upgrades of hardware and software. Projects include staging server for CAS SSO in Azure, deployment of AWS CloudFront for static web assets, and vSphere upgrades.
 * Primary maintainer of various web services/servers, such as CAS Single Sign On System (SSO), Azure DR environment, Drupal Systems, VMware vSphere, DHCP, and others.
 * Maintainer of Configuration Management workflows on Linux servers using Puppet. Recently setup a code approval process in GitLab after the SVN to Git Migration of the Business School's Puppet code.
 * Provide 3rd tier support to the Client Support Group to resolve complex problems.
