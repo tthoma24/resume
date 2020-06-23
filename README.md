@@ -14,16 +14,16 @@ tthoma24@mit.edu
 Proven talent for aligning business strategy and objectives with established support, security, and engineering paradigms to achieve maximum operational impacts with minimum resource expenditures. Efficiency-focused thought leader with expertise spanning system administration, computer and server security, hands-on and remote support, cross-functional team participation, complex problem-solving and troubleshooting, cluster and cloud computing, process optimization, security awareness training, customer service, and technology solutions. Exceptionally dedicated and precise professional with keen interpersonal, communication, and organizational skills.
 
 # PROFESSIONAL EXPERIENCE
-## Columbia University, New York, NY | Nov 2017 - Present
+## Columbia University, New York, NY | Nov 2017 - Apr 2020
 ### Systems Engineer
 
 * Responsible for maintaining, documenting, patching, and upgrading all hardware and software on approximately 200 servers in the Business School.
 * Coordinate within and across teams to plan and execute ongoing projects. Projects include Gitlab CI/CD for CAS deployments, VMware vSphere upgrades, SVN to Git Migration, and MediaWiki to Confluence migration.
 * Participate in the engineering and evaluation of new installations and upgrades of hardware and software. Projects include staging server for CAS SSO in Azure, deployment of AWS CloudFront for static web assets, and vSphere upgrades.
-* Primary maintainer of various web services/servers, such as CAS Single Sign On System (SSO), Azure DR environment, Drupal Systems, VMware vSphere, DHCP, and others.
+* Primary maintainer of various web services/servers, such as CAS Single Sign On System (SSO), Azure DR environment, Drupal Systems, VMware vSphere, DHCP, Zenoss Monitoring, and others.
 * Maintainer of Configuration Management workflows on Linux servers using Puppet. Recently setup a code approval process in GitLab after the SVN to Git Migration of the Business School's Puppet code.
 * Provide 3rd tier support to the Client Support Group to resolve complex problems.
-* Participation in ongoing multi-year, multi-million dollar efforts to integrate all Business School IT infra and personnel into Columbia University IT (CUIT). Recent projects include Drupal migration to CUIT’s CI platform, Access and Data Center network refresh to CUIT, and integration of IDM functions between ADCU and UniApp and CBS’ AD and IDM systems.
+* Participation in ongoing multi-year, multi-million dollar efforts to integrate all Business School IT infra and personnel into Columbia University IT (CUIT). Recent projects include Drupal migration to CUIT’s CI platform, Access and Data Center network refresh to CUIT, and integration of IDM functions between central Columbia University and Business School AD and IDM systems.
 
 
 
