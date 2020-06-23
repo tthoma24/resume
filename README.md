@@ -111,16 +111,16 @@ Proven talent for aligning business strategy and objectives with established sup
 
 # EDUCATION AND CREDENTIALS
 ### AWS Certified Solutions Architect - Associate, Dec 2019
-Validation Number: 15Q6RNGCNJREQ7WE 
+* Validation Number: 15Q6RNGCNJREQ7WE 
 
 ### SumoLogic Pro User and Power User certified, May 2019
-Certification IDs: a58a-5735-946f-f40d, 150e-316a-1ed6-3e65
+* Certification IDs: a58a-5735-946f-f40d, 150e-316a-1ed6-3e65
 
-### Software Carpentries Certified Instructor, Dec 2018
-https://carpentries.org/about/
+### Software Carpentries Certified Instructor (https://carpentries.org/about/), Dec 2018
+* Taught Python, Git, and bash to graduate students as part of the Columbia University Research Computing Foundations program.
 
 ### Hofstra University, Hempstead, NY | Sep 2011 - Dec 2012
-Coursework completed toward Bachelor of Science in Education (B.S.Ed.) in Music Education
+* Coursework completed toward Bachelor of Science in Education (B.S.Ed.) in Music Education
 
 
 # ADDITIONAL INFORMATION
