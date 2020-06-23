@@ -125,7 +125,7 @@ Coursework completed toward Bachelor of Science in Education (B.S.Ed.) in Music 
 
 # ADDITIONAL INFORMATION
 ## Technical Proficiencies
-Cluster/cloud computing, DHCP, DNS, LDAP/OpenDJ, OpenVPN, SSH, Sendmail, AFS, NFS, Kerberos, Apache, NGINX, WordPress, macOS, Ubuntu, VMWare, cron, SysVinit, X.509 certs, emacs, bash
+AFS, Apache, bash, Cluster/cloud computing, cron, DHCP, DNS, Kerberos, LDAP/OpenDJ, macOS, NFS, NGINX, OpenVPN, Python, SSH, Sendmail, systemd, SysVinit, Ubuntu, VMWare, WordPress, X.509 certs
 
 ## Hobbies
 Singing, Playing Trumpet, Tinkering with home automation and the Internet of Things, Member of Barnard-Columbia Choir and Barnard-Columbia Chamber Singers.
