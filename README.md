@@ -9,21 +9,34 @@ tthoma24@mit.edu
 [comment]: # (Empty line below should be maintained to keep long line separating contact info from Objectove section when viewed on GitHub)
 #  
 # OBJECTIVE
-## Vision-driven change agent with career-long record of IT support, system administration, and technical documentation for leading organizations
+## Vision-driven change agent with career-long record of IT support, system administration, and technical leadership for leading mission-driven organizations
 
 Proven talent for aligning business strategy and objectives with established support, security, and engineering paradigms to achieve maximum operational impacts with minimum resource expenditures. Efficiency-focused thought leader with expertise spanning system administration, computer and server security, hands-on and remote support, cross-functional team participation, complex problem-solving and troubleshooting, cluster and cloud computing, process optimization, security awareness training, customer service, and technology solutions. Exceptionally dedicated and precise professional with keen interpersonal, communication, and organizational skills.
 
 # PROFESSIONAL EXPERIENCE
+## BetterHealth A Planned Parenthood Partnership, Remote, September 2020 – Present
+### Senior Cloud Engineer
+
+* Provide technical leadership and knowledge for building a high functioning cloud engineering and services organization to move Planned Parenthood Affiliates located throughout the United States to the Epic Electronic Health Record. This multi-year, multi-million-dollar project has directly led to patients in Ohio being seen 8 days sooner for abortion care and a decrease in several hours of average abortion visit time across all affiliates using Epic.
+* Configure, manage, validate, test, troubleshoot, and maintain AWS Linux and Windows servers, storage, database, and network resources using direct configuration and abstraction tools, including config management, automation, and orchestration with Terraform, CloudFormation, and Ansible.
+* Provide 3rd and 4th tier support to Planned Parenthood affiliates to resolve complex networking and device problems in a multi-region, multi-gigabit-per-second AWS network environment.
+* Responsible for onboarding new vendors and affiliates into the environment, including setting up site-to-site VPN tunnels, creating SAML sign on integrations, user and group management, and peripheral device configuration assistance.
+* Work cross-functionally with other teams to develop and maintain solutions to support their work and ensure appropriate use of IT resources. Projects include developing in-house medical image processing software, SFTP data transfer integrations with lab and finance vendors, and rollout of Atlassian suite for knowledge base and ticket system.
+* Provide technical leadership and mentorship to junior IT staff. 
+* Perform network diagramming and documentation of new and existing systems within the environment
+
+
+
 ## Columbia University, New York, NY | Nov 2017 - Apr 2020
 ### Systems Engineer
 
-* Responsible for maintaining, documenting, patching, and upgrading all hardware and software on approximately 200 servers in the Business School.
-* Coordinate within and across teams to plan and execute ongoing projects. Projects include Gitlab CI/CD for CAS deployments, VMware vSphere upgrades, SVN to Git Migration, and MediaWiki to Confluence migration.
-* Participate in the engineering and evaluation of new installations and upgrades of hardware and software. Projects include staging server for CAS SSO in Azure, deployment of AWS CloudFront for static web assets, and vSphere upgrades.
-* Primary maintainer of various web services/servers, such as CAS Single Sign On System (SSO), Azure DR environment, Drupal Systems, VMware vSphere, DHCP, Zenoss Monitoring, and others.
-* Maintainer of Configuration Management workflows on Linux servers using Puppet. Recently setup a code approval process in GitLab after the SVN to Git Migration of the Business School's Puppet code.
-* Provide 3rd tier support to the Client Support Group to resolve complex problems.
-* Participation in ongoing multi-year, multi-million dollar efforts to integrate all Business School IT infra and personnel into Columbia University IT (CUIT). Recent projects include Drupal migration to CUIT’s CI platform, Access and Data Center network refresh to CUIT, and integration of IDM functions between central Columbia University and Business School AD and IDM systems.
+* Maintained, documented, patched, and upgraded all hardware and software on approximately 200 servers in the Business School.
+* Coordinated within and across teams to plan and execute ongoing projects. Projects included Gitlab CI/CD for CAS deployments, VMware vSphere upgrades, SVN to Git Migration, and MediaWiki to Confluence migration.
+* Participated in the engineering and evaluation of new installations and upgrades of hardware and software. Projects included staging server for CAS SSO in Azure, deployment of AWS CloudFront for static web assets, and vSphere upgrades.
+* Acted as primary maintainer of various web services/servers, such as CAS Single Sign On System (SSO), Azure DR environment, Drupal Systems, VMware vSphere, DHCP, Zenoss Monitoring, and others.
+* Maintained of Configuration Management workflows on Linux servers using Puppet. Recently setup a code approval process in GitLab after the SVN to Git Migration of the Business School's Puppet code.
+* Provided 3rd tier support to the Client Support Group to resolve complex problems.
+* Participated in ongoing multi-year, multi-million-dollar efforts to integrate all Business School IT infra and personnel into Columbia University IT (CUIT). Projects included Drupal migration to CUIT’s CI platform, Access and Data Center network refresh to CUIT, and integration of IDM functions between central Columbia University and Business School AD and IDM systems.
 
 
 
@@ -36,7 +49,7 @@ Proven talent for aligning business strategy and objectives with established sup
 * Installed and configured software on AWS, VMware virtualized, and local Linux servers, including Apache, Tomcat, SSL certificates, Java, and Docker.
 * Managed LDAP and SaaS user accounts and associated permissions for all company users.
 * Utilized configuration management on Linux servers with Ansible to automate software installation and configuration.
-* Assisted Cloud Architect by triaging issues with cloud compute applications, services, and the installation and configuration of new services; gained experience with parallel/cluster computing, load balancing and HA.
+* Triaged issues with cloud compute applications, services, and the installation and configuration of new services; gained experience with parallel/cluster computing, load balancing and HA.
 * Authored and maintained accurate documentation for a wide variety of technology and services within the Confluence-based knowledge base.
 * Coordinated vendor management activities with the IT Manager and CIO, including evaluations, implementations, contract renewal, and support requests.
 * Collaborated with other IT team members to execute projects using Agile and Scrum methodologies. Projects included moving on-prem services into AWS, email migration, physical office move, server security and automation, and HITRUST CSF (https://hitrustalliance.net) certification effort.
@@ -109,6 +122,9 @@ Proven talent for aligning business strategy and objectives with established sup
 * Recent experience with GitLabCI (https://about.gitlab.com/product/continuous-integration/) at CU to build CAS SSO Java WAR file with Maven, and deploy the WAR file in an automated fashion on dev, stag, and prod server infrastructure, saving at least an hour per deployment.
 
 # EDUCATION AND CREDENTIALS
+### Aviatrix Certified Engineer - Multi-Cloud Networking Associate, Dec 2020
+* Certification Number: 2020-7869 
+
 ### AWS Certified Solutions Architect - Associate, Dec 2019
 * Validation Number: 15Q6RNGCNJREQ7WE 
 
@@ -124,7 +140,7 @@ Proven talent for aligning business strategy and objectives with established sup
 
 # ADDITIONAL INFORMATION
 ## Technical Proficiencies
-AFS, Apache, bash, Cluster/cloud computing, cron, DHCP, DNS, Kerberos, LDAP/OpenDJ, macOS, NFS, NGINX, OpenVPN, Python, SSH, Sendmail, systemd, SysVinit, Ubuntu, VMWare, WordPress, X.509 certs
+AFS, Apache, bash, Cluster/cloud computing, cron, DHCP, DNS, Google Workspace, Kerberos, Linux, LDAP/OpenDJ, macOS, NFS, NGINX, OpenVPN, Python, SSH, Sendmail, systemd, SysVinit, Ubuntu, VMWare, WordPress, X.509 certs
 
 ## Hobbies
-Singing, Playing Trumpet, Tinkering with home automation and the Internet of Things, Member of Barnard-Columbia Choir and Barnard-Columbia Chamber Singers.
+Singing, Playing Trumpet, Tinkering with home automation and the Internet of Things, Volunteer Music Teacher, Member of Barnard-Columbia Choir and Barnard-Columbia Chamber Singers.
