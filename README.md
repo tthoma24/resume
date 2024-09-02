@@ -120,6 +120,9 @@ Proven talent for aligning business strategy and objectives with established sup
 * Recent experience with GitLabCI (https://about.gitlab.com/product/continuous-integration/) at CU to build CAS SSO Java WAR file with Maven, and deploy the WAR file in an automated fashion on dev, stag, and prod server infrastructure, saving at least an hour per deployment.
 
 # EDUCATION AND CREDENTIALS
+### Aviatrix Certified Engineer - Multi-Cloud Networking Professional, Jan 2023
+* Certification Number 2020-7869
+
 ### Aviatrix Certified Engineer - Multi-Cloud Networking Associate, Dec 2020
 * Certification Number: 2020-7869 
 
