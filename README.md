@@ -12,7 +12,7 @@ tthoma24@mit.edu
 Proven talent for aligning business strategy and objectives with established support, security, and engineering paradigms to achieve maximum operational impacts with minimum resource expenditures. Efficiency-focused thought leader with expertise spanning system administration, computer and server security, hands-on and remote support, cross-functional team participation, complex problem-solving and troubleshooting, cluster and cloud computing, process optimization, security awareness training, customer service, and technology solutions. Exceptionally dedicated and precise professional with keen interpersonal, communication, and organizational skills.
 
 # PROFESSIONAL EXPERIENCE
-## BetterHealth A Planned Parenthood Partnership, Remote, September 2020 – Present
+## BetterHealth A Planned Parenthood Partnership, Remote, Sep 2020 – Present
 ### Senior Cloud Engineer
 
 * Provide technical leadership and knowledge for building a high functioning cloud engineering and services organization to move Planned Parenthood Affiliates located throughout the United States to the Epic Electronic Health Record. This multi-year, multi-million-dollar project has directly led to patients in Ohio being seen 8 days sooner for abortion care and a decrease in several hours of average abortion visit time across all affiliates using Epic.
