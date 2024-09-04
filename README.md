@@ -19,7 +19,16 @@ Bobo with your canned meat? Send mail to tthoma24-honeypot@mit.edu
 </details>
 
 # PROFESSIONAL EXPERIENCE
-## BetterHealth A Planned Parenthood Partnership, Remote | Sep 2020 – Present
+## Planned Parenthood Clinical Health Network, Remote | Jun 2023 - Present
+### Senior Cloud Engineer
+* Provide technical leadership, organizational knowledge, and experience building and maintaining a consolidated, scalable IT ecosystem and integrated digital health platforms post-Roe vs Wade to fifteen Planned Parenthood affiliates across 19 states.
+* Configure, manage, validate, test, troubleshoot, and maintain AWS Linux and Windows servers, storage, database, and network resources using direct configuration and abstraction tools, including config management, automation, and orches
+tration with Terraform, CloudFormation.
+* Provide 3rd and 4th tier support to Service Desk and Planned Parenthood affiliates to resolve complex networking and device problems in a multi-region, multi-gigabit-per-second AWS and on premises network environment.
+* Onboard new vendors and affiliates into the environment, including setting up site-to-site VPN tunnels through Palo Alto Prisma SD-WAN, creating Okta SAML sign on integrations, user and group management, and peripheral device configuration assistance.
+* Work cross-functionally with other teams to develop and maintain solutions to support patient care, business services, and ensure appropriate use of IT resources across the organization.
+
+## BetterHealth A Planned Parenthood Partnership, Remote | Sep 2020 – Jun 2023
 ### Senior Cloud Engineer
 
 * Provide technical leadership and knowledge for building a high functioning cloud engineering and services organization to move Planned Parenthood Affiliates located throughout the United States to the Epic Electronic Health Record. This multi-year, multi-million-dollar project has directly led to patients in Ohio being seen 8 days sooner for abortion care and a decrease in several hours of average abortion visit time across all affiliates using Epic.
