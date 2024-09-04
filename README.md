@@ -1,7 +1,7 @@
 # Teddy Thomas
 
-Full address and references upon request
-Brooklyn, NY 
+Full address and references upon request\
+Brooklyn, NY\
 tthoma24@mit.edu
 
 [comment]: # (Empty line below should be maintained to keep long line separating contact info from Objectove section when viewed on GitHub)
