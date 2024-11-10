@@ -7,9 +7,9 @@ tthoma24 at mit dot edu
 [comment]: # (Empty line below should be maintained to keep long line separating contact info from Objectove section when viewed on GitHub)
 #  
 # OBJECTIVE
-## Vision-driven change agent with career-long record of IT support, system administration, and technical leadership for leading mission-driven organizations
+## Vision-driven change agent with career-long record of IT support, system administration, information security, and technical leadership for leading mission-driven organizations
 
-Proven talent for aligning business strategy and objectives with established support, security, and engineering paradigms to achieve maximum operational impacts with minimum resource expenditures. Efficiency-focused thought leader with expertise spanning system administration, computer and server security, hands-on and remote support, cross-functional team participation, complex problem-solving and troubleshooting, cluster and cloud computing, process optimization, security awareness training, customer service, and technology solutions. Exceptionally dedicated and precise professional with keen interpersonal, communication, and organizational skills.
+Proven talent for aligning business strategy and objectives with established support, security, and engineering paradigms to achieve maximum operational impacts with minimum resource expenditures. Efficiency-focused thought leader with expertise spanning system administration, endpoint and server security, compliance and posture management, hands-on and remote support, cross-functional team participation, complex problem-solving and troubleshooting, cluster and cloud computing, process optimization, customer service, and technology solutions. Exceptionally dedicated and precise professional with keen interpersonal, communication, and organizational skills.
 
 <details>
 <summary>Anti-bot</summary>
