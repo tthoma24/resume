@@ -118,10 +118,9 @@ Bobo with your canned meat? Send mail to tthoma24-honeypot@mit.edu
 ### CMS/Web Development
 ## Drupal
 * Collaborated with IS&T students and staff to deploy a new website for the Residential Computing team in the IS&T Helpdesk, with features including ticket submission web forms, dynamic content from System Status page, and CSS/JavaScript feature slideshow.
-* Configured Request Tracker queues with Perl scrips to parse mail headers and body of web form submissions to set custom ticket system fields.
-* Received an MIT IS&T Spotlight Award for work on the site.
-* Primary systems maintainer of Columbia Business School’s Drupal environment, including Varnish, Couchbase, and F5 LTM load balancing.
-* Recently finished migration of Drupal into CUIT’s Drupal service, including work with CUIT to setup an HA database and memcache solution.
+* Configured Request Tracker queues with Perl scrips to parse mail headers and body of web form submissions to set custom ticket system fields. Received an MIT IS&T Spotlight Award for work on the site.
+* Primary systems maintainer of Columbia Business School’s Drupal environment, including Varnish, Couchbase, and F5 GTM/LTM load balancing. Migrated Drupal sites into CUIT’s Drupal-as-a-service platform, including work with CUIT to setup an HA database and memcache solution for that platform.
+
 
 
 ### Other
