@@ -22,21 +22,22 @@ Bobo with your canned meat? Send mail to tthoma24-honeypot@mit.edu
 ## Planned Parenthood Clinical Health Network, Remote | Jun 2023 - Present
 ### Senior Cloud Engineer
 * Provide technical leadership, organizational knowledge, and experience building and maintaining a consolidated, scalable, and secure IT ecosystem and integrated digital health platforms post-Roe vs Wade to fifteen Planned Parenthood affiliates across 19 states.
-* Configure, manage, validate, test, troubleshoot, and maintain AWS Linux and Windows servers, storage, database, and network resources using direct configuration and abstraction automation, and orchestration tools such as Terraform and CloudFormation.
-* Configure, manage, validate, test, and troubleshoot implementation of new security and compliance tooling in partnership with Information Security Team. Recent experience with Palo Alto Cortex XDR, CASB Cloud Security, and SaaS Security Posture Management. 
-* Provide 3rd and 4th tier support to Service Desk and Planned Parenthood affiliates to resolve complex networking and device problems in a multi-region, multi-gigabit-per-second hybrid AWS and on-premise network environment. Issues include site-to-site IPSec VPN tunnels setup or troubleshooting, SAML sign on integrations, wireless network issues, and peripheral device configuration
-* Work cross-functionally with other teams to develop and maintain solutions to support patient care, business services, security and compliance, and ensure appropriate use of IT resources across the organization.
+* Configure, manage, validate, test, document, troubleshoot, and maintain AWS Linux and Windows servers, storage, database, and network resources using direct configuration and abstraction automation, and orchestration tools such as Terraform and CloudFormation.
+* Provide 3rd and 4th tier support to Service Desk and Planned Parenthood affiliates to resolve complex networking and device problems in a multi-region, multi-gigabit-per-second hybrid AWS and on-premise network environment. Issues include site-to-site IPSec VPN troubleshooting, carrier routing issues, wireless network issues, and peripheral device configuration.
+* Responsible for onboarding new vendors and affiliates into the environment, including setting up site-to-site VPN tunnels, creating SAML sign on integrations, user and group management, and peripheral device configuration assistance.
+* Work cross-functionally with other teams to develop and maintain solutions to support patient care, business services, security and compliance, and ensure appropriate use of IT resources across the organization. Recent projects include partnership with Information Security team on rollout of Palo Alto Cortex XDR, CASB Cloud Security, and SaaS Security Posture Management.
+
+
 
 ## BetterHealth A Planned Parenthood Partnership, Remote | Sep 2020 – Jun 2023
 ### Senior Cloud Engineer
-
+ment, including setting up site-to-site VPN tunnels, creating SAML sign on integrations, user and group management, and peripheral device configuration assistance.
 * Provide technical leadership and knowledge for building a high functioning cloud engineering and services organization to move Planned Parenthood Affiliates located throughout the United States to the Epic Electronic Health Record. This multi-year, multi-million-dollar project has directly led to patients in Ohio being seen 8 days sooner for abortion care and a decrease in several hours of average abortion visit time across all affiliates using Epic.
-* Configure, manage, validate, test, troubleshoot, and maintain AWS Linux and Windows servers, storage, database, and network resources using direct configuration and abstraction tools, including config management, automation, and orchestration with Terraform, CloudFormation, and Ansible.
-* Provide 3rd and 4th tier support to Planned Parenthood affiliates to resolve complex networking and device problems in a multi-region, multi-gigabit-per-second AWS network environment.
+* Configure, manage, validate, test, document, troubleshoot, and maintain AWS Linux and Windows servers, storage, database, and network resources using direct configuration and abstraction tools, including config management, automation, and orchestration with Terraform, CloudFormation, and Ansible.
+* Provide 3rd and 4th tier support to Planned Parenthood affiliates to resolve complex networking and device problems in a multi-region, mulit-gigabit-per-second AWS network environment.
 * Responsible for onboarding new vendors and affiliates into the environment, including setting up site-to-site VPN tunnels, creating SAML sign on integrations, user and group management, and peripheral device configuration assistance.
 * Work cross-functionally with other teams to develop and maintain solutions to support their work and ensure appropriate use of IT resources. Projects include developing in-house medical image processing software, SFTP data transfer integrations with lab and finance vendors, and rollout of Atlassian suite for knowledge base and ticket system.
-* Provide technical leadership and mentorship to junior IT staff. 
-* Perform network diagramming and documentation of new and existing systems within the environment
+* Mentored junior staff in cloud security principles and DevSecOps practices, fostering cross-team collaboration to integrate engineering and security best practices throughout the organization.
 
 
 
