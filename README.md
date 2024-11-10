@@ -45,12 +45,12 @@ ment, including setting up site-to-site VPN tunnels, creating SAML sign on integ
 ### Systems Engineer
 
 * Maintained, documented, patched, and upgraded all hardware and software on approximately 200 servers in the Business School.
-* Coordinated within and across teams to plan and execute ongoing projects. Projects included Gitlab CI/CD for CAS deployments, VMware vSphere upgrades, SVN to Git Migration, and MediaWiki to Confluence migration.
-* Participated in the engineering and evaluation of new installations and upgrades of hardware and software. Projects included staging server for CAS SSO in Azure, deployment of AWS CloudFront for static web assets, and vSphere upgrades.
-* Acted as primary maintainer of various web services/servers, such as CAS Single Sign On System (SSO), Azure DR environment, Drupal Systems, VMware vSphere, DHCP, Zenoss Monitoring, and others.
-* Maintained of Configuration Management workflows on Linux servers using Puppet. Recently setup a code approval process in GitLab after the SVN to Git Migration of the Business School's Puppet code.
-* Provided 3rd tier support to the Client Support Group to resolve complex problems.
-* Participated in ongoing multi-year, multi-million-dollar efforts to integrate all Business School IT infra and personnel into Columbia University IT (CUIT). Projects included Drupal migration to CUIT’s CI platform, Access and Data Center network refresh to CUIT, and integration of IDM functions between central Columbia University and Business School AD and IDM systems.
+* Acted as primary maintainer of various web servers and platforms, such as CAS Single Sign On System (SSO), Azure DR environment, Drupal CMS, VMware vSphere, DHCP, Zenoss Monitoring, and others.
+* Coordinated within and across teams to plan and execute ongoing projects. Projects included Gitlab CI/CD for CAS deployments, aditional VMware vSphere hosts, SVN to Git Migration, and MediaWiki to Confluence migration.
+* Participated in the engineering and evaluation of new installations and upgrades of hardware and software. Projects included staging server for CAS SSO in Azure, deployment of AWS CloudFront for static web assets, and vSphere and vCenter upgrades.
+* Maintained of Configuration Management workflows on Linux servers using Puppet. Setup a code approval process in GitLab for all changes.
+* Provided 3rd tier support to the Client Support Group to resolve complex end user issues.
+* Participated in ongoing multi-year, multi-million-dollar efforts to integrate all Business School IT infra and personnel into Columbia University IT (CUIT). Projects included Drupal migration to CUIT’s CI platform, Access and Data Center network re-architecture, and integration of IDM functions between central Columbia University and Business School AD, HRMS, and SSO systems.
 
 
 
