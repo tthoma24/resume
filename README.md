@@ -56,11 +56,10 @@ ment, including setting up site-to-site VPN tunnels, creating SAML sign on integ
 
 ## GNS Healthcare, Cambridge MA | Jun 2015 - Aug 2017
 ### IT Support Specialist
+#### Rebranded as Aitia Bio, Jan 2023
 
-* Explained issues and their resolution to users at all company levels, including C and D-level executives.
-* Worked to troubleshoot client- and server-side software and hardware issues; provide resolutions to end users virtually/in-person; Served as an escalation point for Junior IT Support Specialist with end-user incident resolution.
-* Installed and deployed new AWS-based servers utilizing EC2, S3, Glacier, VPC, RDS, and Redshift.
-* Installed and configured software on AWS, VMware virtualized, and local Linux servers, including Apache, Tomcat, SSL certificates, Java, and Docker.
+* Worked to troubleshoot client- and server-side software and hardware issues; provide explanations and resolutions to end users virtually/in-person to users at all company levels, including C and D-level executives; Served as an escalation point for Junior IT Support Specialist with end-user incident resolution.
+* Installed and deployed new AWS-based servers utilizing EC2, S3, Glacier, VPC, RDS, and Redshift; VMware virtualized; and local Linux servers with software including Apache, Tomcat, SSL certificates, Java, and Docker.
 * Managed LDAP and SaaS user accounts and associated permissions for all company users.
 * Utilized configuration management on Linux servers with Ansible to automate software installation and configuration.
 * Triaged issues with cloud compute applications, services, and the installation and configuration of new services; gained experience with parallel/cluster computing, load balancing and HA.
