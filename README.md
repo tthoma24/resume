@@ -78,7 +78,9 @@ ment, including setting up site-to-site VPN tunnels, creating SAML sign on integ
 * Delivered tier 2 support for Education Systems, including the Stellar CMS, Google Apps for Education, and Confluence Wikis; escalated as appropriate.
 * Coordinated and provided tier 1 and 2 support for cable TV, phone, and Internet in MIT dormitories and independent living groups (ILGs); escalated tier 3 network issues.
 * Authored and maintained accurate documentation for a wide variety of technology and services within the MIT Confluence-based knowledge base.
+* Participated in strategic community outreach programs, including laptop anti-theft registrations, IT Partners conferences and email lists, and start of year and Campus Preview events for new students.
 * Facilitated the training and mentoring of new student workers in the Call Center, Walkins, and Residential Computing spaces to promote swift onboarding and high productivity.
+
 
 
 ## Student Computing Services at Hofstra University, Hempstead, NY | Sep 2011 - Dec 2012
