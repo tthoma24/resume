@@ -95,22 +95,23 @@ ment, including setting up site-to-site VPN tunnels, creating SAML sign on integ
 * Resolved issues including password resets, disabled login accounts, print release issues, MS Office Suite questions and errors, problems with web services, installing drivers and software, device network registrations, and connectivity issues.
 
 
+
 # RELEVANT PROJECTS
 
-### Cluster & Cloud Computing
-## Amazon Web Services
+## Cluster & Cloud Computing
+### Amazon Web Services
 
-* Experience with EC2, S3, Glacier, IAM, VPC, RDS, Redshift, and ECS.
-* Maintenance of individual servers and applications, as well as HA services and HPC clusters.
-* Created base AMIs for generic machines and StarClusters.
-* Maintenance of IAM policies and accounts for individual users and Assumed Role service accounts.
+* Experience with EC2, ECS, Fargate, S3, Glacier, IAM, VPC, RDS, Redshift, and Workspaces.
+* Setup and maintenance of individual servers and applications, as well as HA services and HPC clusters.
+* Setup and maintenance of IAM policies, roles, and AWS IAM Identity Center Single-Sign-On.
 * Set up Vault (https://vaultproject.io) in high-availability and to use AWS IAM backends
 * Maintain a personal AWS account with VPN tunnel to home, and Route 53 DNS domains for personal services.
-* Recent experience at CU with AWS Lambda for creating simple S3 data pipeline to integrate with an external vendor's application, and Lambda@Edge for serving static web assets through Cloudfront.
+* Experience with AWS Lambda for creating simple S3 data pipeline to integrate with an external vendor's application, and Lambda@Edge for serving static web assets through Cloudfront.
+* Devised a container-based microservices infrastructure for CU Business School’s Community Mailing List application that reduced system complexity and increased availability.
+* Automated security configurations and policy compliance checks for AWS infrastructure using Terraform and CloudFormation, aligning with HIPAA/SOC 2 frameworks to protect patient data.
+* Recent experience piloting AWS Security Hub for single pane of glass of security checks and alerts, enhancing collaboration between engineering and security teams.
 
-
-### Cluster & Cloud Computing
-## StarCluster (https://star.mit.edu/cluster)
+### StarCluster (https://star.mit.edu/cluster)
 
 * Experience configuring and submitting Sun Grid Engine (SGE) jobs.
 * Spun up and upgraded clusters and Load Balancers.
@@ -118,23 +119,28 @@ ment, including setting up site-to-site VPN tunnels, creating SAML sign on integ
 * Performed rudimentary plugin writing utilizing foundational Python skills.
 
 
-### CMS/Web Development
-## Drupal
+## CMS/Web Development
+### Drupal
 * Collaborated with IS&T students and staff to deploy a new website for the Residential Computing team in the IS&T Helpdesk, with features including ticket submission web forms, dynamic content from System Status page, and CSS/JavaScript feature slideshow.
 * Configured Request Tracker queues with Perl scrips to parse mail headers and body of web form submissions to set custom ticket system fields. Received an MIT IS&T Spotlight Award for work on the site.
 * Primary systems maintainer of Columbia Business School’s Drupal environment, including Varnish, Couchbase, and F5 GTM/LTM load balancing. Migrated Drupal sites into CUIT’s Drupal-as-a-service platform, including work with CUIT to setup an HA database and memcache solution for that platform.
 
 
-
-### Other
-## MacAthena (http://github.com/macathena/macathena)
+## DevOps
+### MacAthena (http://github.com/macathena/macathena)
 * Working to port MIT's Athena computing platform to macOS, including the Python automounter, moira utilities, and a customized login greeter.
 * Setup CI/CD pipeline integration with GitHub and TravisCI to autobuild new commits and run regression and unit tests.
 
-### Other
-## CI/CD
+### CI/CD
 * Setup CI/CD pipeline integration for MacAthena project (above).
 * Recent experience with GitLabCI (https://about.gitlab.com/product/continuous-integration/) at CU to build CAS SSO Java WAR file with Maven, and deploy the WAR file in an automated fashion on dev, stag, and prod server infrastructure, saving at least an hour per deployment.
+
+### Containers
+* Containerized GitLabCI on Docker with environment isolation for dev, stag, and prod builds.
+* Maintained ECS development containers for developers to have isolated environments to install Python, R, and other packages in while maintaining HITRUST compliance in production with restricted software installation rights
+* Recent experience with AWS Elastic Kubernetes Service and Kubernetes workshop.
+
+
 
 # EDUCATION AND CREDENTIALS
 ### Aviatrix Certified Engineer - Multi-Cloud Networking Professional, Jan 2023
@@ -158,7 +164,7 @@ ment, including setting up site-to-site VPN tunnels, creating SAML sign on integ
 
 # ADDITIONAL INFORMATION
 ## Technical Proficiencies
-AFS, Apache, bash, Cluster/cloud computing, cron, DHCP, DNS, Google Workspace, Kerberos, Linux, LDAP/OpenDJ, macOS, NFS, NGINX, OpenVPN, Python, SSH, Sendmail, systemd, SysVinit, Ubuntu, VMWare, WordPress, X.509 certs
+Azure, AFS, Apache, bash, Cluster/cloud computing, cron, DHCP, DNS, Docker, GlobalProtect, Google Workspace, Kerberos, Linux, LDAP/OpenDJ, macOS, NFS, NGINX, OpenVPN, Prisma SD-WAN, Prisma Access, Python, SSH, Sendmail, systemd, SysVinit, Ubuntu, VMWare, WordPress, X.509 certs
 
 ## Hobbies
 Singing, Playing Trumpet, Tinkering with home automation and the Internet of Things, Volunteer Music Teacher, Member of Barnard-Columbia Choir and Barnard-Columbia Chamber Singers.
